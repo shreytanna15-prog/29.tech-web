@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { IBM_Plex_Sans, IBM_Plex_Mono } from "next/font/google";
 import PageLoader from "./components/PageLoader";
+import SmoothScroll from "./components/SmoothScroll";
 import "./globals.css";
 
 const plexSans = IBM_Plex_Sans({
@@ -65,6 +66,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     >
       <body className="min-h-screen flex flex-col">
         <PageLoader />
+        <SmoothScroll />
         {children}
       </body>
     </html>

@@ -118,6 +118,7 @@ export default function CalEmbed() {
         ref={containerRef}
         id={elementId}
         className="cal-embed-frame"
+        data-lenis-prevent
         style={{ width: '100%', height: '100%', overflow: 'scroll' }}
       />
       <p className="cal-embed-fallback mono-meta">

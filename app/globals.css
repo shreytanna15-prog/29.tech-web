@@ -103,6 +103,16 @@ html {
   color-scheme: only light;
 }
 
+/* Lenis — same integration CSS as cypherox, without disabling iframe clicks */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
 body {
   margin: 0;
   background: var(--bg-0);
