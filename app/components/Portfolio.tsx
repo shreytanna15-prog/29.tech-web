@@ -107,7 +107,7 @@ const clients: Client[] = [
   {
     name: 'Joss Technologies',
     tag: 'AI SaaS',
-    logoSrc: '/logos/joss.png',
+    logoSrc: '/logos/Joss.png',
   },
   {
     name: 'Tribe AI',
