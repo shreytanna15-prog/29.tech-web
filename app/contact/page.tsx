@@ -12,7 +12,24 @@ export const metadata: Metadata = {
     title: 'Discuss Your Project — 29.tech',
     description:
       'Book a discovery call or send a project brief. An engineer replies within one business day.',
-    url: 'https://29.tech/contact',
+    url: 'https://29tech.io/contact',
+    images: [
+      {
+        url: '/social_og.png',
+        width: 1672,
+        height: 941,
+        alt: 'Discuss Your Project — 29.tech',
+      },
+    ],
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Discuss Your Project — 29.tech',
+    description:
+      'Book a discovery call or send a project brief. An engineer replies within one business day.',
+    images: ['/social_og.png'],
+    creator: '@29dot_tech',
   },
 };
 

@@ -19,6 +19,7 @@ const plexMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://29tech.io'),
   title: "29.tech — IT Consulting & Software Development",
   description:
     "29.tech is an IT consulting and software development partner helping businesses design, build and scale custom digital solutions, AI systems and modern cloud infrastructure.",
@@ -37,8 +38,16 @@ export const metadata: Metadata = {
     title: "29.tech — IT Consulting & Software Development",
     description:
       "Technology expertise delivered through engineering. Custom software, AI systems and cloud infrastructure for businesses.",
-    url: "https://29.tech",
+    url: "https://29tech.io",
     siteName: "29.tech",
+    images: [
+      {
+        url: "/social_og.png",
+        width: 1672,
+        height: 941,
+        alt: "29.tech — IT Consulting & Software Development",
+      },
+    ],
     type: "website",
   },
   twitter: {
@@ -46,6 +55,8 @@ export const metadata: Metadata = {
     title: "29.tech — IT Consulting & Software Development",
     description:
       "Technology expertise delivered through engineering. Custom software, AI systems and cloud infrastructure for businesses.",
+    images: ["/social_og.png"],
+    creator: "@29dot_tech",
   },
 };
 
