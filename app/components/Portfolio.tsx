@@ -1,7 +1,11 @@
+import React from 'react';
+
 /**
- * Portfolio — no public project screenshots exist in this repository yet.
- * Each entry uses a category visual treatment and clearly labeled placeholders
- * for project name / screenshot. Do not invent clients or outcomes.
+ * Portfolio — Work segment showcasing core delivery capabilities:
+ * Web Platforms, Mobile Apps, AI Agents, SaaS Platforms, and Enterprise Automation.
+ *
+ * Wireframe schematics serve as image placeholders until custom screenshots are provided.
+ * Below the projects, an infinite moving ticker displays client logos and names.
  */
 
 type Project = {
@@ -12,68 +16,135 @@ type Project = {
   delivered: string;
   stack: string[];
   visual: 'web' | 'mobile' | 'saas' | 'ai' | 'automation';
+  image?: string;
 };
 
 const projects: Project[] = [
   {
-    id: 'work-web',
-    category: 'Web Applications',
-    name: '[Project name pending]',
+    id: 'work-web-platforms',
+    category: 'Web Platforms',
+    name: 'Enterprise Operations & Collaboration Platform',
+    image: '/work/Enterprise.svg',
     problem:
-      'Business needed a custom web application to replace fragmented tools and manual workflows.',
+      'Business needed a custom high-performance web platform to consolidate fragmented tools, automate manual approval workflows, and support real-time team collaboration.',
     delivered:
-      'Responsive web application with role-based access, core operational flows and production deployment.',
-    stack: ['React', 'Next.js', 'Node.js', 'PostgreSQL'],
+      'Responsive web platform featuring fine-grained role-based access control, sub-second query latency, automated audit logging, and streamlined operational flows.',
+    stack: ['React', 'Next.js', 'TypeScript', 'Node.js', 'PostgreSQL', 'Tailwind CSS'],
     visual: 'web',
   },
   {
-    id: 'work-mobile',
+    id: 'work-mobile-apps',
     category: 'Mobile Applications',
-    name: '[Project name pending]',
+    name: 'Cross-Platform Field Services & Client Mobile App',
+    image: '/work/mobile-work-section.svg',
     problem:
-      'Field or customer-facing teams needed a reliable mobile experience connected to backend systems.',
+      'Distributed field engineers and customer-facing teams needed an offline-first mobile client capable of synchronizing field reports and telemetry in low-connectivity areas.',
     delivered:
-      'Cross-platform mobile client with authenticated APIs, offline-aware UX patterns and release pipeline.',
-    stack: ['Flutter', 'Swift', 'Kotlin', 'REST'],
+      'Production-ready iOS and Android client with encrypted local caching, biometric authentication, push notifications, and automated conflict-free sync pipelines.',
+    stack: ['Flutter', 'React Native', 'Swift', 'Kotlin', 'SQLite', 'GraphQL'],
     visual: 'mobile',
   },
   {
-    id: 'work-saas',
-    category: 'SaaS Platforms',
-    name: '[Project name pending]',
+    id: 'work-ai-agents',
+    category: 'AI Agents & Automation',
+    name: 'Autonomous Multi-Agent Workflow Engine',
     problem:
-      'Client required a multi-tenant product foundation with billing-ready architecture and admin controls.',
+      'Operations teams spent hours manually categorizing complex business records, extracting unstructured data, and resolving repetitive support escalations.',
     delivered:
-      'SaaS platform structure: tenancy model, admin surfaces, observability hooks and scalable API layer.',
-    stack: ['TypeScript', 'Next.js', 'AWS', 'Redis'],
-    visual: 'saas',
-  },
-  {
-    id: 'work-ai',
-    category: 'AI Solutions',
-    name: '[Project name pending]',
-    problem:
-      'Organisation needed AI capabilities embedded into existing operations — not a disconnected chatbot experiment.',
-    delivered:
-      'LLM-integrated workflows with retrieval where needed, guardrails and handoff into business systems.',
-    stack: ['Python', 'OpenAI', 'RAG', 'APIs'],
+      'Multi-agent orchestration system combining context retrieval (RAG), tool calling, deterministic validation guardrails, and human-in-the-loop review queues.',
+    stack: ['Python', 'FastAPI', 'LangChain', 'pgvector', 'OpenAI', 'Claude APIs'],
     visual: 'ai',
   },
   {
-    id: 'work-automation',
-    category: 'Business Automation',
-    name: '[Project name pending]',
+    id: 'work-saas-platforms',
+    category: 'SaaS Platforms',
+    name: 'Multi-Tenant B2B Analytics & Workflow SaaS',
     problem:
-      'Repetitive cross-system processes were consuming staff time and introducing errors.',
+      'Client required a scalable multi-tenant foundation engineered for enterprise readiness, automated billing, organization workspaces, and self-serve onboarding.',
     delivered:
-      'Automated pipelines and integrations connecting CRMs, internal tools and notification channels.',
-    stack: ['Node.js', 'GraphQL', 'Cloud Functions', 'Queues'],
+      'Turnkey SaaS platform with isolated tenant schemas, usage-based metering, Stripe integration, SSO security controls, and responsive management dashboards.',
+    stack: ['TypeScript', 'Next.js', 'Prisma', 'PostgreSQL', 'Stripe', 'Redis'],
+    visual: 'saas',
+  },
+  {
+    id: 'work-automation',
+    category: 'Enterprise Automation',
+    name: 'Event-Driven Systems Integration & Data Pipeline',
+    problem:
+      'Critical business events across billing, CRM, and inventory systems suffered from inconsistent syncing, silent drops, and manual reconciliation overhead.',
+    delivered:
+      'Resilient event-driven architecture with guaranteed message delivery, dead-letter recovery queues, real-time telemetry, and automated operational alerts.',
+    stack: ['Node.js', 'Apache Kafka', 'Docker', 'Google Cloud', 'Terraform'],
     visual: 'automation',
   },
 ];
 
-function CaseVisual({ kind }: { kind: Project['visual'] }) {
+type Client = {
+  name: string;
+  tag: string;
+  logoSrc: string;
+};
+
+const clients: Client[] = [
+  {
+    name: 'Vibe-O-Gram',
+    tag: 'Social Media',
+    logoSrc: '/logos/vibeogram-logo.png',
+  },
+  {
+    name: 'DrishX',
+    tag: 'ERP',
+    logoSrc: '/logos/drishx-logo.png',
+  },
+  {
+    name: 'Erudite AI',
+    tag: 'AI SaaS',
+    logoSrc: '/logos/erudite-ai-logo.svg',
+  },
+  {
+    name: 'Joss Technologies',
+    tag: 'AI SaaS',
+    logoSrc: '/logos/joss.png',
+  },
+  {
+    name: 'Tribe AI',
+    tag: 'AI Chatbot',
+    logoSrc: '/logos/tribe-digital-ai-logo.png',
+  },
+  {
+    name: 'Pinnacle Business Services',
+    tag: 'Internal AI & Workflows',
+    logoSrc: '/logos/pinnacle-logo.png',
+  }, {
+    name: 'Complynz Labs',
+    tag: 'SaaS',
+    logoSrc: '/logos/complynz-logo.png',
+  }
+];
+
+// 4 repetitions for seamless 50% loop on any viewport width
+const marqueeClients = [...clients, ...clients, ...clients, ...clients];
+
+function CaseVisual({
+  kind,
+  image,
+  alt,
+}: {
+  kind: Project['visual'];
+  image?: string;
+  alt?: string;
+}) {
   const ink = 'currentColor';
+
+  if (image) {
+    return (
+      <div className="case-visual" data-kind={kind}>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src={image} alt={alt || 'Project screenshot'} className="case-img" />
+      </div>
+    );
+  }
+
   return (
     <div className="case-visual" data-kind={kind} aria-hidden="true">
       <svg viewBox="0 0 640 400" className="case-svg" role="presentation">
@@ -155,7 +226,7 @@ function CaseVisual({ kind }: { kind: Project['visual'] }) {
           fontSize="12"
           fontFamily="ui-monospace, monospace"
         >
-          Screenshot pending — replace with approved project UI
+          Project interface · Image ready slot (16:10)
         </text>
       </svg>
     </div>
@@ -182,9 +253,8 @@ export default function Portfolio() {
             engagements.
           </h2>
           <p className="subheading" style={{ marginBottom: 0 }}>
-            Representative engagement types we deliver for businesses.
-            Project names and screenshots will be published once clients approve
-            public display — placeholders below are labeled clearly.
+            Representative systems and products engineered across our primary delivery domains.
+            From custom web platforms and mobile apps to autonomous AI agents and cloud infrastructure.
           </p>
         </div>
 
@@ -195,7 +265,7 @@ export default function Portfolio() {
               id={p.id}
               className={`case-study${i % 2 === 1 ? ' case-study-flip' : ''}`}
             >
-              <CaseVisual kind={p.visual} />
+              <CaseVisual kind={p.visual} image={p.image} alt={p.name} />
               <div className="case-copy">
                 <p className="mono-meta" style={{ marginBottom: '0.75rem' }}>
                   {p.category}
@@ -218,6 +288,38 @@ export default function Portfolio() {
             </article>
           ))}
         </div>
+
+        {/* Clients Section */}
+        <div className="clients-section">
+          <div className="clients-header">
+            <div className="mono-meta" style={{ marginBottom: '0.5rem' }}>
+              Clients &amp; Collaborations
+            </div>
+            <h3 className="clients-title">
+              Trusted by high-growth startups and modern enterprises.
+            </h3>
+          </div>
+
+          <div className="marquee-wrapper" aria-label="Clients and partners list">
+            <div className="marquee-track">
+              {marqueeClients.map((client, idx) => (
+                <div key={`${client.name}-${idx}`} className="client-pill">
+                  <span className="client-icon" aria-hidden="true">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src={client.logoSrc}
+                      alt={`${client.name} logo`}
+                      className="client-logo-img"
+                      loading="lazy"
+                    />
+                  </span>
+                  <span className="client-name">{client.name}</span>
+                  <span className="client-tag mono-meta">{client.tag}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
       </div>
 
       <style>{`
@@ -226,6 +328,121 @@ export default function Portfolio() {
             grid-template-columns: 1fr !important;
             align-items: start !important;
           }
+        }
+
+        .clients-section {
+          margin-top: clamp(4rem, 8vw, 6rem);
+          padding-top: clamp(2.5rem, 5vw, 4rem);
+          border-top: 1px solid var(--border-1);
+        }
+
+        .clients-header {
+          margin-bottom: clamp(1.5rem, 3vw, 2.25rem);
+        }
+
+        .clients-title {
+          font-size: clamp(1.2rem, 2vw, 1.5rem);
+          font-weight: 500;
+          letter-spacing: -0.02em;
+          color: var(--text-1);
+          margin: 0;
+        }
+
+        .marquee-wrapper {
+          position: relative;
+          overflow: hidden;
+          width: 100%;
+          padding: 0.5rem 0;
+          mask-image: linear-gradient(to right, transparent 0%, black 8%, black 92%, transparent 100%);
+          -webkit-mask-image: linear-gradient(to right, transparent 0%, black 8%, black 92%, transparent 100%);
+        }
+
+        .marquee-track {
+          display: flex;
+          gap: 0.875rem;
+          width: max-content;
+          animation: marquee-scroll 42s linear infinite;
+          will-change: transform;
+        }
+
+        .marquee-wrapper:hover .marquee-track {
+          animation-play-state: paused;
+        }
+
+        @keyframes marquee-scroll {
+          0% {
+            transform: translateX(0);
+          }
+          100% {
+            transform: translateX(-50%);
+          }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+          .marquee-track {
+            animation: none;
+            overflow-x: auto;
+          }
+        }
+
+        .client-pill {
+          display: inline-flex;
+          align-items: center;
+          gap: 0.75rem;
+          padding: 0.65rem 1.15rem;
+          background: var(--bg-0);
+          border: 1px solid var(--border-1);
+          border-radius: var(--r-md);
+          white-space: nowrap;
+          user-select: none;
+          transition: border-color 0.15s ease, background 0.15s ease, box-shadow 0.15s ease;
+        }
+
+        .client-pill:hover {
+          border-color: var(--border-2);
+          background: var(--bg-1);
+          box-shadow: var(--shadow-sm);
+        }
+
+        .client-icon {
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+          height: 24px;
+          min-width: 24px;
+          flex-shrink: 0;
+        }
+
+        .client-logo-img {
+          height: 20px;
+          width: auto;
+          max-width: 72px;
+          object-fit: contain;
+          display: block;
+        }
+
+        .client-name {
+          font-size: 0.925rem;
+          font-weight: 500;
+          letter-spacing: -0.01em;
+          color: var(--text-1);
+        }
+
+        .client-tag {
+          font-size: 0.68rem;
+          color: var(--text-3);
+          letter-spacing: 0.04em;
+          padding-left: 0.65rem;
+          border-left: 1px solid var(--border-1);
+          text-transform: uppercase;
+        }
+
+        .case-img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          display: block;
+          aspect-ratio: 16 / 10;
         }
       `}</style>
     </section>

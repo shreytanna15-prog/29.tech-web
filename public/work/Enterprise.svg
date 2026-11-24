@@ -1,0 +1,252 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" font-family="Inter,'Helvetica Neue',Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" xmlns:c2pa="http://c2pa.org/manifest">
+<defs><linearGradient id="g1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b6cf6" stop-opacity=".25"/><stop offset="1" stop-color="#3b6cf6" stop-opacity="0"/></linearGradient>
+<filter id="s" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="1" stdDeviation="1.5" flood-color="#0f172a" flood-opacity=".06"/></filter></defs>
+<rect width="1600" height="1000" fill="#f5f6f8"/>
+<rect x="0" y="0" width="240" height="1000" fill="#fff"/><line x1="240" y1="0" x2="240" y2="1000" stroke="#e4e7ec"/>
+<rect x="24" y="22" width="32" height="32" rx="8" fill="#101828"/>
+<text x="40" y="44" font-size="18" fill="#fff" font-weight="700" text-anchor="middle" >M</text>
+<text x="66" y="45" font-size="19" fill="#101828" font-weight="700" text-anchor="start" >Meridian</text>
+<text x="24" y="92" font-size="11" fill="#98a2b3" font-weight="600" text-anchor="start" letter-spacing="1.2">WORKSPACE</text>
+<rect x="12" y="106" width="216" height="40" rx="8" fill="#eff4ff"/>
+<rect x="28" y="119" width="14" height="14" rx="4" fill="none" stroke="#3b6cf6" stroke-width="1.8"/>
+<text x="54" y="131" font-size="14" fill="#1d4ed8" font-weight="600" text-anchor="start" >Overview</text>
+<rect x="28" y="163" width="14" height="14" rx="4" fill="none" stroke="#667085" stroke-width="1.8"/>
+<text x="54" y="175" font-size="14" fill="#344054" font-weight="500" text-anchor="start" >Approvals</text>
+<rect x="188" y="161" width="28" height="18" rx="9" fill="#fee4e2"/>
+<text x="202" y="174" font-size="11" fill="#b42318" font-weight="600" text-anchor="middle" >14</text>
+<rect x="28" y="207" width="14" height="14" rx="4" fill="none" stroke="#667085" stroke-width="1.8"/>
+<text x="54" y="219" font-size="14" fill="#344054" font-weight="500" text-anchor="start" >Workflows</text>
+<rect x="28" y="251" width="14" height="14" rx="4" fill="none" stroke="#667085" stroke-width="1.8"/>
+<text x="54" y="263" font-size="14" fill="#344054" font-weight="500" text-anchor="start" >Teams</text>
+<rect x="28" y="295" width="14" height="14" rx="4" fill="none" stroke="#667085" stroke-width="1.8"/>
+<text x="54" y="307" font-size="14" fill="#344054" font-weight="500" text-anchor="start" >Documents</text>
+<rect x="28" y="339" width="14" height="14" rx="4" fill="none" stroke="#667085" stroke-width="1.8"/>
+<text x="54" y="351" font-size="14" fill="#344054" font-weight="500" text-anchor="start" >Reports</text>
+<rect x="28" y="383" width="14" height="14" rx="4" fill="none" stroke="#667085" stroke-width="1.8"/>
+<text x="54" y="395" font-size="14" fill="#344054" font-weight="500" text-anchor="start" >Audit Log</text>
+<text x="24" y="442" font-size="11" fill="#98a2b3" font-weight="600" text-anchor="start" letter-spacing="1.2">ADMINISTRATION</text>
+<rect x="28" y="469" width="14" height="14" rx="4" fill="none" stroke="#667085" stroke-width="1.8"/>
+<text x="54" y="481" font-size="14" fill="#344054" font-weight="500" text-anchor="start" >Roles &amp; Permissions</text>
+<rect x="28" y="513" width="14" height="14" rx="4" fill="none" stroke="#667085" stroke-width="1.8"/>
+<text x="54" y="525" font-size="14" fill="#344054" font-weight="500" text-anchor="start" >Integrations</text>
+<rect x="28" y="557" width="14" height="14" rx="4" fill="none" stroke="#667085" stroke-width="1.8"/>
+<text x="54" y="569" font-size="14" fill="#344054" font-weight="500" text-anchor="start" >Settings</text>
+<line x1="0" y1="900" x2="240" y2="900" stroke="#e4e7ec"/>
+<circle cx="44" cy="947" r="18" fill="#7a5af8"/>
+<text x="44" y="952" font-size="12" fill="#fff" font-weight="600" text-anchor="middle" >SK</text>
+<text x="72" y="942" font-size="14" fill="#101828" font-weight="600" text-anchor="start" >Sarah Kim</text>
+<text x="72" y="960" font-size="12" fill="#667085" font-weight="400" text-anchor="start" >Operations Admin</text>
+<path d="M208 942 l5 5 l5 -5" fill="none" stroke="#98a2b3" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="241" y="0" width="1359" height="64" fill="#fff"/><line x1="241" y1="64" x2="1600" y2="64" stroke="#e4e7ec"/>
+<text x="272" y="38" font-size="14" fill="#667085" font-weight="500" text-anchor="start" >Operations</text>
+<text x="352" y="38" font-size="14" fill="#98a2b3" font-weight="400" text-anchor="start" >›</text>
+<text x="368" y="38" font-size="14" fill="#101828" font-weight="600" text-anchor="start" >Overview</text>
+<rect x="700" y="14" width="420" height="36" rx="8" fill="#f2f4f7"/>
+<circle cx="722" cy="31" r="6" fill="none" stroke="#98a2b3" stroke-width="1.8"/><line x1="727" y1="36" x2="731" y2="40" stroke="#98a2b3" stroke-width="1.8" stroke-linecap="round"/>
+<text x="744" y="37" font-size="13" fill="#98a2b3" font-weight="400" text-anchor="start" >Search workflows, people, documents…</text>
+<rect x="1070" y="22" width="36" height="20" rx="5" fill="#fff" stroke="#e4e7ec"/>
+<text x="1088" y="36" font-size="11" fill="#667085" font-weight="500" text-anchor="middle" >⌘ K</text>
+<circle cx="1470" cy="32" r="12" fill="none" stroke="#667085" stroke-width="1.8"/><circle cx="1478" cy="22" r="5" fill="#f04438"/>
+<circle cx="1520" cy="32" r="14" fill="#3b6cf6" stroke="#fff" stroke-width="2"/>
+<text x="1520" y="36" font-size="9" fill="#fff" font-weight="600" text-anchor="middle" >PN</text>
+<circle cx="1542" cy="32" r="14" fill="#0e9384" stroke="#fff" stroke-width="2"/>
+<text x="1542" y="36" font-size="9" fill="#fff" font-weight="600" text-anchor="middle" >DO</text>
+<circle cx="1564" cy="32" r="14" fill="#dd6b20" stroke="#fff" stroke-width="2"/>
+<text x="1564" y="36" font-size="9" fill="#fff" font-weight="600" text-anchor="middle" >MW</text>
+<circle cx="1582" cy="22" r="5" fill="#12b76a" stroke="#fff" stroke-width="2"/>
+<text x="272" y="110" font-size="26" fill="#101828" font-weight="700" text-anchor="start" >Operations Overview</text>
+<text x="272" y="134" font-size="13" fill="#667085" font-weight="400" text-anchor="start" >Real-time view across 6 departments  ·  Updated 2 min ago</text>
+<rect x="1160" y="92" width="138" height="38" rx="8" fill="#fff" stroke="#d0d5dd"/>
+<text x="1178" y="116" font-size="13" fill="#344054" font-weight="500" text-anchor="start" >Last 30 days</text>
+<path d="M1272 108 l5 5 l5 -5" fill="none" stroke="#667085" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="1310" y="92" width="100" height="38" rx="8" fill="#fff" stroke="#d0d5dd"/>
+<text x="1360" y="116" font-size="13" fill="#344054" font-weight="500" text-anchor="middle" >Export</text>
+<rect x="1422" y="92" width="146" height="38" rx="8" fill="#101828"/>
+<text x="1495" y="116" font-size="13" fill="#fff" font-weight="600" text-anchor="middle" >+ New workflow</text>
+<rect x="272" y="156" width="309" height="118" rx="12" fill="#fff" stroke="#e4e7ec" filter="url(#s)"/>
+<text x="292" y="188" font-size="13" fill="#667085" font-weight="500" text-anchor="start" >Active workflows</text>
+<text x="292" y="238" font-size="34" fill="#101828" font-weight="700" text-anchor="start" >1,248</text>
+<rect x="292" y="248" width="70" height="18" rx="9" fill="#dcfae6"/>
+<text x="327" y="261" font-size="11" fill="#067647" font-weight="600" text-anchor="middle" >▲ 8.2%</text>
+<text x="368" y="261" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="start" >vs last period</text>
+<polyline points="462.0,245.5 472.5,243.3 483.0,244.4 493.5,240.0 504.0,241.1 514.5,236.7 525.0,237.8 535.5,233.4 546.0,234.5 556.5,230.1 567.0,227.9" fill="none" stroke="#3b6cf6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="601" y="156" width="309" height="118" rx="12" fill="#fff" stroke="#e4e7ec" filter="url(#s)"/>
+<text x="621" y="188" font-size="13" fill="#667085" font-weight="500" text-anchor="start" >Avg. approval time</text>
+<text x="621" y="238" font-size="34" fill="#101828" font-weight="700" text-anchor="start" >4.2 hrs</text>
+<rect x="621" y="248" width="70" height="18" rx="9" fill="#dcfae6"/>
+<text x="656" y="261" font-size="11" fill="#067647" font-weight="600" text-anchor="middle" >▼ 31%</text>
+<text x="697" y="261" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="start" >vs last period</text>
+<polyline points="791.0,223.5 801.5,225.7 812.0,224.6 822.5,230.1 833.0,232.3 843.5,234.5 854.0,236.7 864.5,240.0 875.0,241.1 885.5,243.3 896.0,245.5" fill="none" stroke="#3b6cf6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="930" y="156" width="309" height="118" rx="12" fill="#fff" stroke="#e4e7ec" filter="url(#s)"/>
+<text x="950" y="188" font-size="13" fill="#667085" font-weight="500" text-anchor="start" >Query latency (p95)</text>
+<text x="950" y="238" font-size="34" fill="#101828" font-weight="700" text-anchor="start" >412 ms</text>
+<rect x="950" y="248" width="70" height="18" rx="9" fill="#dcfae6"/>
+<text x="985" y="261" font-size="11" fill="#067647" font-weight="600" text-anchor="middle" >▼ 12%</text>
+<text x="1026" y="261" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="start" >vs last period</text>
+<polyline points="1120.0,229.0 1130.5,226.8 1141.0,230.1 1151.5,231.2 1162.0,233.4 1172.5,232.3 1183.0,235.6 1193.5,236.7 1204.0,237.8 1214.5,240.0 1225.0,241.1" fill="none" stroke="#3b6cf6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1259" y="156" width="309" height="118" rx="12" fill="#fff" stroke="#e4e7ec" filter="url(#s)"/>
+<text x="1279" y="188" font-size="13" fill="#667085" font-weight="500" text-anchor="start" >SLA compliance</text>
+<text x="1279" y="238" font-size="34" fill="#101828" font-weight="700" text-anchor="start" >99.2%</text>
+<rect x="1279" y="248" width="70" height="18" rx="9" fill="#dcfae6"/>
+<text x="1314" y="261" font-size="11" fill="#067647" font-weight="600" text-anchor="middle" >▲ 0.6%</text>
+<text x="1355" y="261" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="start" >vs last period</text>
+<polyline points="1449.0,240.0 1459.5,238.9 1470.0,239.4 1480.5,237.8 1491.0,236.7 1501.5,237.2 1512.0,235.6 1522.5,234.5 1533.0,233.4 1543.5,232.8 1554.0,231.2" fill="none" stroke="#3b6cf6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="272" y="294" width="800" height="330" rx="12" fill="#fff" stroke="#e4e7ec" filter="url(#s)"/>
+<text x="296" y="330" font-size="16" fill="#101828" font-weight="600" text-anchor="start" >Requests processed</text>
+<text x="296" y="350" font-size="12" fill="#667085" font-weight="400" text-anchor="start" >Submitted vs. completed, daily</text>
+<circle cx="832" cy="326" r="5" fill="#3b6cf6"/>
+<text x="844" y="330" font-size="12" fill="#344054" font-weight="500" text-anchor="start" >Submitted</text>
+<circle cx="932" cy="326" r="5" fill="#0e9384"/>
+<text x="944" y="330" font-size="12" fill="#344054" font-weight="500" text-anchor="start" >Completed</text>
+<line x1="336" y1="556.0" x2="1044" y2="556.0" stroke="#eaecf0"/>
+<text x="324" y="560.0" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="end" >0k</text>
+<line x1="336" y1="511.5" x2="1044" y2="511.5" stroke="#eaecf0"/>
+<text x="324" y="515.5" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="end" >2k</text>
+<line x1="336" y1="467.0" x2="1044" y2="467.0" stroke="#eaecf0"/>
+<text x="324" y="471.0" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="end" >4k</text>
+<line x1="336" y1="422.5" x2="1044" y2="422.5" stroke="#eaecf0"/>
+<text x="324" y="426.5" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="end" >6k</text>
+<line x1="336" y1="378.0" x2="1044" y2="378.0" stroke="#eaecf0"/>
+<text x="324" y="382.0" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="end" >8k</text>
+<path d="M336.0,508.1 L359.6,453.8 L383.2,450.6 L406.8,444.7 L430.4,441.1 L454.0,437.3 L477.6,493.3 L501.2,496.6 L524.8,440.6 L548.4,443.7 L572.0,452.8 L595.6,453.7 L619.2,458.0 L642.8,512.0 L666.4,512.6 L690.0,465.9 L713.6,462.7 L737.2,452.9 L760.8,443.8 L784.4,444.6 L808.0,490.1 L831.6,492.4 L855.2,423.7 L878.8,412.5 L902.4,408.9 L926.0,406.9 L949.6,410.2 L973.2,483.7 L996.8,481.0 L1020.4,420.1 L1044.0,427.6 L1044,556 L336,556 Z" fill="url(#g1)"/>
+<path d="M336.0,508.1 L359.6,453.8 L383.2,450.6 L406.8,444.7 L430.4,441.1 L454.0,437.3 L477.6,493.3 L501.2,496.6 L524.8,440.6 L548.4,443.7 L572.0,452.8 L595.6,453.7 L619.2,458.0 L642.8,512.0 L666.4,512.6 L690.0,465.9 L713.6,462.7 L737.2,452.9 L760.8,443.8 L784.4,444.6 L808.0,490.1 L831.6,492.4 L855.2,423.7 L878.8,412.5 L902.4,408.9 L926.0,406.9 L949.6,410.2 L973.2,483.7 L996.8,481.0 L1020.4,420.1 L1044.0,427.6" fill="none" stroke="#3b6cf6" stroke-width="2.4" stroke-linejoin="round"/>
+<path d="M336.0,510.2 L359.6,460.0 L383.2,455.9 L406.8,453.3 L430.4,446.3 L454.0,448.9 L477.6,498.0 L501.2,502.2 L524.8,451.7 L548.4,454.1 L572.0,459.2 L595.6,458.1 L619.2,464.3 L642.8,513.8 L666.4,515.5 L690.0,473.3 L713.6,469.0 L737.2,461.3 L760.8,450.4 L784.4,451.8 L808.0,495.9 L831.6,496.7 L855.2,432.4 L878.8,425.1 L902.4,418.9 L926.0,419.0 L949.6,416.7 L973.2,489.6 L996.8,487.7 L1020.4,431.7 L1044.0,438.2" fill="none" stroke="#0e9384" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="336.0" y="580" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="middle" >Oct 25</text>
+<text x="454.0" y="580" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="middle" >Oct 30</text>
+<text x="572.0" y="580" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="middle" >Nov 4</text>
+<text x="690.0" y="580" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="middle" >Nov 9</text>
+<text x="808.0" y="580" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="middle" >Nov 14</text>
+<text x="926.0" y="580" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="middle" >Nov 19</text>
+<text x="1044.0" y="580" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="middle" >Nov 24</text>
+<line x1="737.2" y1="378" x2="737.2" y2="556" stroke="#d0d5dd" stroke-dasharray="3 4"/>
+<circle cx="737.2" cy="452.9" r="5" fill="#fff" stroke="#3b6cf6" stroke-width="2.5"/>
+<rect x="641.2" y="374.9" width="150" height="62" rx="8" fill="#101828"/>
+<text x="653.2" y="394.94223631539757" font-size="11" fill="#98a2b3" font-weight="500" text-anchor="start" >Wed, Nov 11</text>
+<text x="653.2" y="412.94223631539757" font-size="12" fill="#fff" font-weight="600" text-anchor="start" >Submitted  4,631</text>
+<text x="653.2" y="428.94223631539757" font-size="12" fill="#7ee0d3" font-weight="600" text-anchor="start" >Completed  4,254</text>
+<rect x="1092" y="294" width="476" height="330" rx="12" fill="#fff" stroke="#e4e7ec" filter="url(#s)"/>
+<text x="1116" y="330" font-size="16" fill="#101828" font-weight="600" text-anchor="start" >Pending approvals</text>
+<text x="1544" y="330" font-size="13" fill="#3b6cf6" font-weight="600" text-anchor="end" >View all →</text>
+<circle cx="1134" cy="376" r="17" fill="#3b6cf6"/>
+<text x="1134" y="380" font-size="11" fill="#fff" font-weight="600" text-anchor="middle" >PN</text>
+<text x="1160" y="372" font-size="13" fill="#101828" font-weight="600" text-anchor="start" >Priya Nair</text>
+<text x="1160" y="390" font-size="12" fill="#667085" font-weight="400" text-anchor="start" >Purchase order PO-4821</text>
+<text x="1544" y="372" font-size="13" fill="#101828" font-weight="600" text-anchor="end" >$18,400</text>
+<rect x="1488" y="380" width="56" height="18" rx="9" fill="#fee4e2"/>
+<text x="1516" y="393" font-size="10" fill="#b42318" font-weight="600" text-anchor="middle" >High</text>
+<text x="1478" y="393" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="end" >12m</text>
+<line x1="1116" y1="402" x2="1544" y2="402" stroke="#f2f4f7"/>
+<circle cx="1134" cy="428" r="17" fill="#0e9384"/>
+<text x="1134" y="432" font-size="11" fill="#fff" font-weight="600" text-anchor="middle" >DO</text>
+<text x="1160" y="424" font-size="13" fill="#101828" font-weight="600" text-anchor="start" >Daniel Ortiz</text>
+<text x="1160" y="442" font-size="12" fill="#667085" font-weight="400" text-anchor="start" >Vendor contract renewal</text>
+<text x="1544" y="424" font-size="13" fill="#101828" font-weight="600" text-anchor="end" >$62,000</text>
+<rect x="1488" y="432" width="56" height="18" rx="9" fill="#fee4e2"/>
+<text x="1516" y="445" font-size="10" fill="#b42318" font-weight="600" text-anchor="middle" >High</text>
+<text x="1478" y="445" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="end" >38m</text>
+<line x1="1116" y1="454" x2="1544" y2="454" stroke="#f2f4f7"/>
+<circle cx="1134" cy="480" r="17" fill="#dd6b20"/>
+<text x="1134" y="484" font-size="11" fill="#fff" font-weight="600" text-anchor="middle" >AR</text>
+<text x="1160" y="476" font-size="13" fill="#101828" font-weight="600" text-anchor="start" >Aisha Rahman</text>
+<text x="1160" y="494" font-size="12" fill="#667085" font-weight="400" text-anchor="start" >Expense claim EXP-2290</text>
+<text x="1544" y="476" font-size="13" fill="#101828" font-weight="600" text-anchor="end" >$1,240</text>
+<rect x="1488" y="484" width="56" height="18" rx="9" fill="#f2f4f7"/>
+<text x="1516" y="497" font-size="10" fill="#344054" font-weight="600" text-anchor="middle" >Normal</text>
+<text x="1478" y="497" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="end" >1h</text>
+<line x1="1116" y1="506" x2="1544" y2="506" stroke="#f2f4f7"/>
+<circle cx="1134" cy="532" r="17" fill="#7a5af8"/>
+<text x="1134" y="536" font-size="11" fill="#fff" font-weight="600" text-anchor="middle" >MW</text>
+<text x="1160" y="528" font-size="13" fill="#101828" font-weight="600" text-anchor="start" >Marcus Webb</text>
+<text x="1160" y="546" font-size="12" fill="#667085" font-weight="400" text-anchor="start" >Access request: Legal vault</text>
+<text x="1544" y="528" font-size="13" fill="#101828" font-weight="600" text-anchor="end" >—</text>
+<rect x="1488" y="536" width="56" height="18" rx="9" fill="#f2f4f7"/>
+<text x="1516" y="549" font-size="10" fill="#344054" font-weight="600" text-anchor="middle" >Normal</text>
+<text x="1478" y="549" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="end" >2h</text>
+<line x1="1116" y1="558" x2="1544" y2="558" stroke="#f2f4f7"/>
+<circle cx="1134" cy="584" r="17" fill="#d92d20"/>
+<text x="1134" y="588" font-size="11" fill="#fff" font-weight="600" text-anchor="middle" >TB</text>
+<text x="1160" y="580" font-size="13" fill="#101828" font-weight="600" text-anchor="start" >Tom Becker</text>
+<text x="1160" y="598" font-size="12" fill="#667085" font-weight="400" text-anchor="start" >Headcount change HC-117</text>
+<text x="1544" y="580" font-size="13" fill="#101828" font-weight="600" text-anchor="end" >1 FTE</text>
+<rect x="1488" y="588" width="56" height="18" rx="9" fill="#dcfae6"/>
+<text x="1516" y="601" font-size="10" fill="#067647" font-weight="600" text-anchor="middle" >Low</text>
+<text x="1478" y="601" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="end" >4h</text>
+<rect x="272" y="644" width="1296" height="336" rx="12" fill="#fff" stroke="#e4e7ec" filter="url(#s)"/>
+<text x="296" y="682" font-size="16" fill="#101828" font-weight="600" text-anchor="start" >Audit log</text>
+<circle cx="376" cy="677" r="4" fill="#12b76a"/>
+<text x="386" y="681" font-size="12" fill="#067647" font-weight="600" text-anchor="start" >Live</text>
+<rect x="1182" y="662" width="86" height="30" rx="15" fill="#101828" stroke="#101828"/>
+<text x="1225.0" y="681" font-size="12" fill="#fff" font-weight="500" text-anchor="middle" >All events</text>
+<rect x="1276" y="662" width="84" height="30" rx="15" fill="#fff" stroke="#d0d5dd"/>
+<text x="1318.0" y="681" font-size="12" fill="#344054" font-weight="500" text-anchor="middle" >Approvals</text>
+<rect x="1368" y="662" width="96" height="30" rx="15" fill="#fff" stroke="#d0d5dd"/>
+<text x="1416.0" y="681" font-size="12" fill="#344054" font-weight="500" text-anchor="middle" >Permissions</text>
+<rect x="1472" y="662" width="72" height="30" rx="15" fill="#fff" stroke="#d0d5dd"/>
+<text x="1508.0" y="681" font-size="12" fill="#344054" font-weight="500" text-anchor="middle" >Exports</text>
+<rect x="272" y="706" width="1296" height="34" fill="#f9fafb"/><line x1="272" y1="706" x2="1568" y2="706" stroke="#eaecf0"/><line x1="272" y1="740" x2="1568" y2="740" stroke="#eaecf0"/>
+<text x="296" y="728" font-size="11" fill="#667085" font-weight="600" text-anchor="start" letter-spacing=".8">TIMESTAMP</text>
+<text x="422" y="728" font-size="11" fill="#667085" font-weight="600" text-anchor="start" letter-spacing=".8">USER</text>
+<text x="672" y="728" font-size="11" fill="#667085" font-weight="600" text-anchor="start" letter-spacing=".8">ACTION</text>
+<text x="912" y="728" font-size="11" fill="#667085" font-weight="600" text-anchor="start" letter-spacing=".8">RESOURCE</text>
+<text x="1262" y="728" font-size="11" fill="#667085" font-weight="600" text-anchor="start" letter-spacing=".8">ROLE</text>
+<text x="1452" y="728" font-size="11" fill="#667085" font-weight="600" text-anchor="start" letter-spacing=".8">STATUS</text>
+<text x="296" y="764" font-size="13" fill="#667085" font-weight="400" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">14:52:08</text>
+<circle cx="433" cy="759" r="11" fill="#3b6cf6"/>
+<text x="433" y="763" font-size="8" fill="#fff" font-weight="600" text-anchor="middle" >PN</text>
+<text x="452" y="764" font-size="13" fill="#101828" font-weight="600" text-anchor="start" >Priya Nair</text>
+<text x="672" y="764" font-size="13" fill="#344054" font-weight="500" text-anchor="start" >Approved purchase order</text>
+<text x="912" y="764" font-size="13" fill="#667085" font-weight="400" text-anchor="start" >PO-4821 · Vendor payments</text>
+<text x="1262" y="764" font-size="13" fill="#344054" font-weight="400" text-anchor="start" >Finance Manager</text>
+<rect x="1452" y="748" width="76" height="22" rx="11" fill="#dcfae6"/><circle cx="1466" cy="759" r="3" fill="#067647"/>
+<text x="1476" y="763" font-size="12" fill="#067647" font-weight="600" text-anchor="start" >Success</text>
+<line x1="272" y1="778" x2="1568" y2="778" stroke="#f2f4f7"/>
+<text x="296" y="802" font-size="13" fill="#667085" font-weight="400" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">14:49:31</text>
+<circle cx="433" cy="797" r="11" fill="#0e9384"/>
+<text x="433" y="801" font-size="8" fill="#fff" font-weight="600" text-anchor="middle" >DO</text>
+<text x="452" y="802" font-size="13" fill="#101828" font-weight="600" text-anchor="start" >Daniel Ortiz</text>
+<text x="672" y="802" font-size="13" fill="#344054" font-weight="500" text-anchor="start" >Updated role permissions</text>
+<text x="912" y="802" font-size="13" fill="#667085" font-weight="400" text-anchor="start" >Team: Field Operations</text>
+<text x="1262" y="802" font-size="13" fill="#344054" font-weight="400" text-anchor="start" >Admin</text>
+<rect x="1452" y="786" width="76" height="22" rx="11" fill="#dcfae6"/><circle cx="1466" cy="797" r="3" fill="#067647"/>
+<text x="1476" y="801" font-size="12" fill="#067647" font-weight="600" text-anchor="start" >Success</text>
+<line x1="272" y1="816" x2="1568" y2="816" stroke="#f2f4f7"/>
+<text x="296" y="840" font-size="13" fill="#667085" font-weight="400" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">14:44:17</text>
+<circle cx="433" cy="835" r="11" fill="#7a5af8"/>
+<text x="433" y="839" font-size="8" fill="#fff" font-weight="600" text-anchor="middle" >SK</text>
+<text x="452" y="840" font-size="13" fill="#101828" font-weight="600" text-anchor="start" >Sarah Kim</text>
+<text x="672" y="840" font-size="13" fill="#344054" font-weight="500" text-anchor="start" >Exported compliance report</text>
+<text x="912" y="840" font-size="13" fill="#667085" font-weight="400" text-anchor="start" >Q4-SLA-Report.pdf</text>
+<text x="1262" y="840" font-size="13" fill="#344054" font-weight="400" text-anchor="start" >Operations Admin</text>
+<rect x="1452" y="824" width="76" height="22" rx="11" fill="#dcfae6"/><circle cx="1466" cy="835" r="3" fill="#067647"/>
+<text x="1476" y="839" font-size="12" fill="#067647" font-weight="600" text-anchor="start" >Success</text>
+<line x1="272" y1="854" x2="1568" y2="854" stroke="#f2f4f7"/>
+<text x="296" y="878" font-size="13" fill="#667085" font-weight="400" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">14:38:02</text>
+<circle cx="433" cy="873" r="11" fill="#dd6b20"/>
+<text x="433" y="877" font-size="8" fill="#fff" font-weight="600" text-anchor="middle" >MW</text>
+<text x="452" y="878" font-size="13" fill="#101828" font-weight="600" text-anchor="start" >Marcus Webb</text>
+<text x="672" y="878" font-size="13" fill="#344054" font-weight="500" text-anchor="start" >Requested access</text>
+<text x="912" y="878" font-size="13" fill="#667085" font-weight="400" text-anchor="start" >Contracts / Legal vault</text>
+<text x="1262" y="878" font-size="13" fill="#344054" font-weight="400" text-anchor="start" >Analyst</text>
+<rect x="1452" y="862" width="76" height="22" rx="11" fill="#fef0c7"/><circle cx="1466" cy="873" r="3" fill="#b54708"/>
+<text x="1476" y="877" font-size="12" fill="#b54708" font-weight="600" text-anchor="start" >Pending</text>
+<line x1="272" y1="892" x2="1568" y2="892" stroke="#f2f4f7"/>
+<text x="296" y="916" font-size="13" fill="#667085" font-weight="400" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">14:31:46</text>
+<circle cx="433" cy="911" r="11" fill="#c11574"/>
+<text x="433" y="915" font-size="8" fill="#fff" font-weight="600" text-anchor="middle" >AR</text>
+<text x="452" y="916" font-size="13" fill="#101828" font-weight="600" text-anchor="start" >Aisha Rahman</text>
+<text x="672" y="916" font-size="13" fill="#344054" font-weight="500" text-anchor="start" >Submitted expense claim</text>
+<text x="912" y="916" font-size="13" fill="#667085" font-weight="400" text-anchor="start" >EXP-2290 · $1,240.00</text>
+<text x="1262" y="916" font-size="13" fill="#344054" font-weight="400" text-anchor="start" >Field Engineer</text>
+<rect x="1452" y="900" width="76" height="22" rx="11" fill="#fef0c7"/><circle cx="1466" cy="911" r="3" fill="#b54708"/>
+<text x="1476" y="915" font-size="12" fill="#b54708" font-weight="600" text-anchor="start" >Pending</text>
+<line x1="272" y1="930" x2="1568" y2="930" stroke="#f2f4f7"/>
+<text x="296" y="954" font-size="13" fill="#667085" font-weight="400" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">14:27:55</text>
+<circle cx="433" cy="949" r="11" fill="#d92d20"/>
+<text x="433" y="953" font-size="8" fill="#fff" font-weight="600" text-anchor="middle" >TB</text>
+<text x="452" y="954" font-size="13" fill="#101828" font-weight="600" text-anchor="start" >Tom Becker</text>
+<text x="672" y="954" font-size="13" fill="#344054" font-weight="500" text-anchor="start" >Deleted document</text>
+<text x="912" y="954" font-size="13" fill="#667085" font-weight="400" text-anchor="start" >Draft_SOW_v3.docx</text>
+<text x="1262" y="954" font-size="13" fill="#344054" font-weight="400" text-anchor="start" >Contributor</text>
+<rect x="1452" y="938" width="76" height="22" rx="11" fill="#fee4e2"/><circle cx="1466" cy="949" r="3" fill="#b42318"/>
+<text x="1476" y="953" font-size="12" fill="#b42318" font-weight="600" text-anchor="start" >Denied</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1ZmRkYzY5OC03NTUxLTQwNjMtYmEzNy00NzQ1ZjM4Yzc3MDkAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIbO97LmlMkfChxKpCruLIYAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyZGZmM2JhOC1hNjc5LTQyYTMtYmJjOS1iODBmMzE5Njg2NDdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoLLkegV+0OscwB5BqrLeC1gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg+ClSNmIbOdhFHYXwCGPLP+1NzutUvfB8gaaeAVNabwmkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaPVuyN+up0mH2kkPUWMY3wkAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIGqlB2HG0hVuO7oXiVpXbceCxePJxDivjpCsn1Gcp2n3ZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GWs8Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjVmZGRjNjk4LTc1NTEtNDA2My1iYTM3LTQ3NDVmMzhjNzcwOS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjA1MTM4ZTQ0LWZmOGYtNDJhZS1iYWQxLWY3ZDg4NmI4Zjg2YXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCD4KVI2Yhs52EUdhfAIY8s/7U3O61S98HyBpp4BU1pvCaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggkOYB5l3VGqrbm7mSY5HKxxNXkgCVLiRMFIe+xJmXs1CiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggxZdARqP+Y6oXi/nkXSfC61wjFjwGRA8fYT0RYe+S8Hl0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQOikmiM+V1JjVxIT7C23u/flnyaicOG0QnvvirZR7Mz6H8axaHUXkroJtIy+/CmEdd1z36vU50xzXWOTqxnvo40=</c2pa:manifest></metadata></svg>
