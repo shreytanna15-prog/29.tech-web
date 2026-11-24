@@ -12,12 +12,13 @@ export const metadata: Metadata = {
     title: 'Discuss Your Project — 29.tech',
     description:
       'Book a discovery call or send a project brief. An engineer replies within one business day.',
-    url: 'https://29tech.io/contact',
+    url: 'https://www.29tech.io/contact',
     images: [
       {
         url: '/social_og.png',
-        width: 1672,
-        height: 941,
+        width: 1200,
+        height: 675,
+        type: 'image/png',
         alt: 'Discuss Your Project — 29.tech',
       },
     ],
