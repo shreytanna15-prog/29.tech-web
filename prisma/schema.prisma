@@ -1,0 +1,57 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model AdminUser {
+  id           String    @id @default(uuid())
+  username     String    @unique
+  passwordHash String    @map("password_hash")
+  createdAt    DateTime  @default(now()) @map("created_at")
+  updatedAt    DateTime  @updatedAt @map("updated_at")
+
+  @@map("admin_users")
+}
+
+model Enquiry {
+  id            String     @id @default(uuid())
+  name          String
+  email         String
+  phone         String
+  company       String?
+  services      String[]
+  budget        String
+  timeline      String?
+  source        String?
+  message       String
+  nda           Boolean    @default(false)
+  status        String     @default("new") // new, contacted, in_discussion, converted, archived
+  internalNotes String?    @map("internal_notes")
+  createdAt     DateTime   @default(now()) @map("created_at")
+  updatedAt     DateTime   @updatedAt @map("updated_at")
+
+  activities    Activity[]
+
+  @@map("enquiries")
+}
+
+model Activity {
+  id          String   @id @default(uuid())
+  type        String   // form_submission, status_change, note_added, admin_login, export_csv
+  entityId    String?  @map("entity_id")
+  description String
+  metadata    Json?
+  createdAt   DateTime @default(now()) @map("created_at")
+
+  enquiry     Enquiry? @relation(fields: [entityId], references: [id], onDelete: Cascade)
+
+  @@index([entityId])
+  @@index([type])
+  @@index([createdAt])
+  @@map("activities")
+}
