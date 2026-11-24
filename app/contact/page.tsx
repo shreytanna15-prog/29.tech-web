@@ -20,8 +20,8 @@ const details = [
   {
     id: 'ct-email',
     label: 'Email',
-    value: 'hello@29.tech',
-    href: 'mailto:hello@29.tech',
+    value: 'hello@29tech.io',
+    href: 'mailto:hello@29tech.io',
   },
   {
     id: 'ct-phone',

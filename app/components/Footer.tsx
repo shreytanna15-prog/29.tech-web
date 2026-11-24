@@ -153,8 +153,8 @@ export default function Footer() {
               <a href="tel:+918849089880" className="foot-link">
                 +91 88490 89880
               </a>
-              <a href="mailto:hello@29.tech" className="foot-link">
-                hello@29.tech
+              <a href="mailto:hello@29tech.io" className="foot-link">
+                hello@29tech.io
               </a>
               <span style={{ fontSize: '0.875rem', color: 'var(--text-3)' }}>
                 Rajkot, Gujarat, India

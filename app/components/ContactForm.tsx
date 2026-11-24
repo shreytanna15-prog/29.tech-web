@@ -350,7 +350,7 @@ export default function ContactForm() {
         {status === 'error' && (
           <p className="field-error" role="alert" style={{ margin: 0 }}>
             Something went wrong sending that. Please email{' '}
-            <a href="mailto:hello@29.tech" style={{ color: 'var(--text-1)' }}>hello@29.tech</a> instead.
+            <a href="mailto:hello@29tech.io" style={{ color: 'var(--text-1)' }}>hello@29tech.io</a> instead.
           </p>
         )}
       </div>
