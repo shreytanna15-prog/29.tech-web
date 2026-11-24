@@ -1,0 +1,322 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" font-family="Inter,'Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" xmlns:c2pa="http://c2pa.org/manifest">
+<defs>
+<radialGradient id="gl" cx="85%" cy="0%" r="60%"><stop offset="0" stop-color="#0c4a6e" stop-opacity=".35"/><stop offset="1" stop-color="#0a0e15" stop-opacity="0"/></radialGradient>
+<marker id="mc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1 1 L9 5 L1 9z" fill="#38bdf8"/></marker>
+<marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1 1 L9 5 L1 9z" fill="#fbbf24"/></marker>
+<linearGradient id="ar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38bdf8" stop-opacity=".25"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1600" height="1000" fill="#0a0e15"/><rect width="1600" height="1000" fill="url(#gl)"/>
+<rect width="1600" height="56" fill="#111826" opacity=".9"/><line x1="0" y1="56" x2="1600" y2="56" stroke="#1f2937"/>
+<rect x="24" y="12" width="32" height="32" rx="9" fill="#0c4a6e" />
+<g transform="translate(31.6,19.6) scale(0.7)" fill="none" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"><circle cx="6" cy="6" r="2.6"/><circle cx="6" cy="18" r="2.6"/><circle cx="18" cy="12" r="2.6"/><path d="M8.4 7 L15.6 11 M8.4 17 L15.6 13"/></g>
+<text x="66" y="34" font-size="17" fill="#e5e7eb" font-weight="700" text-anchor="start" >Conduit</text>
+<text x="190" y="34" font-size="13.5" fill="#e5e7eb" font-weight="600" text-anchor="start" >Pipeline</text>
+<rect x="190" y="52" width="64.8" height="3" rx="1.5" fill="#38bdf8" />
+<text x="284.8" y="34" font-size="13.5" fill="#8b93a7" font-weight="500" text-anchor="start" >Topics</text>
+<text x="364.4" y="34" font-size="13.5" fill="#8b93a7" font-weight="500" text-anchor="start" >Consumers</text>
+<text x="466.79999999999995" y="34" font-size="13.5" fill="#8b93a7" font-weight="500" text-anchor="start" >Dead letters</text>
+<text x="592.0" y="34" font-size="13.5" fill="#8b93a7" font-weight="500" text-anchor="start" >Alerts</text>
+<rect x="700" y="17" width="148" height="24" rx="12.0" fill="#1a2233" />
+<text x="774.0" y="33.0" font-size="11" fill="#cbd5e1" font-weight="600" text-anchor="middle" >prod · europe-west1</text>
+<rect x="858" y="17" width="104" height="24" rx="12.0" fill="#1a2233" />
+<text x="910.0" y="33.0" font-size="11" fill="#cbd5e1" font-weight="600" text-anchor="middle" >GKE · 3 nodes</text>
+<rect x="974" y="17" width="160" height="24" rx="12" fill="#0f2a22" />
+<circle cx="990" cy="29" r="3.5" fill="#34d399"/>
+<text x="1000" y="33" font-size="11" fill="#34d399" font-weight="600" text-anchor="start" >Terraform · in sync</text>
+<rect x="1290" y="13" width="118" height="30" rx="9" fill="#1a2233" stroke="#1f2937" stroke-width="1" />
+<text x="1349" y="33" font-size="12.5" fill="#e5e7eb" font-weight="500" text-anchor="middle" >Last 15 min</text>
+<circle cx="1440" cy="28" r="4.5" fill="#34d399"/>
+<text x="1452" y="33" font-size="12.5" fill="#34d399" font-weight="650" text-anchor="start" >Live</text>
+<circle cx="1546" cy="28" r="15" fill="#7c3aed"/>
+<text x="1546" y="32.5" font-size="11" fill="#fff" font-weight="650" text-anchor="middle" >SK</text>
+<g transform="translate(1497.0,19.0) scale(0.75)" fill="none" stroke="#8b93a7" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M6 17 V11 a6 6 0 0 1 12 0 v6 l1.5 2 h-15z M10 21 h4"/></g>
+<circle cx="1514" cy="20" r="4" fill="#f87171"/>
+<rect x="40.0" y="76" width="291.2" height="100" rx="14" fill="#111826" stroke="#1f2937" stroke-width="1" />
+<text x="58.0" y="102" font-size="12" fill="#8b93a7" font-weight="500" text-anchor="start" >Events / sec</text>
+<text x="58.0" y="142" font-size="28" fill="#e5e7eb" font-weight="700" text-anchor="start" >18.4k</text>
+<text x="58.0" y="162" font-size="11.5" fill="#34d399" font-weight="650" text-anchor="start" >▲ 6.2%</text>
+<polyline points="227.2,133.5 235.6,131.3 244.0,132.4 252.4,128.0 260.8,125.8 269.2,126.9 277.6,122.5 286.0,120.3 294.4,118.1 302.8,119.2 311.2,115.9" fill="none" stroke="#38bdf8" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="347.2" y="76" width="291.2" height="100" rx="14" fill="#111826" stroke="#1f2937" stroke-width="1" />
+<text x="365.2" y="102" font-size="12" fill="#8b93a7" font-weight="500" text-anchor="start" >p99 latency</text>
+<text x="365.2" y="142" font-size="28" fill="#e5e7eb" font-weight="700" text-anchor="start" >126 ms</text>
+<text x="365.2" y="162" font-size="11.5" fill="#34d399" font-weight="650" text-anchor="start" >▼ 11%</text>
+<polyline points="534.4,117.0 542.8,118.1 551.2,115.9 559.6,120.3 568.0,121.4 576.4,122.5 584.8,124.7 593.2,123.6 601.6,126.9 610.0,128.0 618.4,129.1" fill="none" stroke="#38bdf8" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="654.4" y="76" width="291.2" height="100" rx="14" fill="#111826" stroke="#1f2937" stroke-width="1" />
+<text x="672.4" y="102" font-size="12" fill="#8b93a7" font-weight="500" text-anchor="start" >Consumer lag</text>
+<text x="672.4" y="142" font-size="28" fill="#e5e7eb" font-weight="700" text-anchor="start" >1,204</text>
+<text x="672.4" y="162" font-size="11.5" fill="#fbbf24" font-weight="650" text-anchor="start" >▲ 340</text>
+<polyline points="841.6,139.0 850.0,137.9 858.4,138.4 866.8,136.8 875.2,135.7 883.6,136.2 892.0,133.5 900.4,131.3 908.8,123.6 917.2,128.0 925.6,130.2" fill="none" stroke="#fbbf24" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="961.5999999999999" y="76" width="291.2" height="100" rx="14" fill="#111826" stroke="#1f2937" stroke-width="1" />
+<text x="979.5999999999999" y="102" font-size="12" fill="#8b93a7" font-weight="500" text-anchor="start" >Delivery success</text>
+<text x="979.5999999999999" y="142" font-size="28" fill="#e5e7eb" font-weight="700" text-anchor="start" >99.998%</text>
+<text x="979.5999999999999" y="162" font-size="11.5" fill="#34d399" font-weight="650" text-anchor="start" >guaranteed</text>
+<polyline points="1148.8,122.5 1157.2,122.5 1165.6,122.0 1174.0,122.5 1182.4,122.0 1190.8,122.5 1199.2,122.5 1207.6,122.0 1216.0,122.5 1224.4,122.5 1232.8,122.0" fill="none" stroke="#38bdf8" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1268.8" y="76" width="291.2" height="100" rx="14" fill="#111826" stroke="#1f2937" stroke-width="1" />
+<text x="1286.8" y="102" font-size="12" fill="#8b93a7" font-weight="500" text-anchor="start" >DLQ messages</text>
+<text x="1286.8" y="142" font-size="28" fill="#e5e7eb" font-weight="700" text-anchor="start" >37</text>
+<text x="1286.8" y="162" font-size="11.5" fill="#fbbf24" font-weight="650" text-anchor="start" >▲ 12 / 10m</text>
+<polyline points="1456.0,144.5 1464.4,144.5 1472.8,143.4 1481.2,143.4 1489.6,142.3 1498.0,142.3 1506.4,140.1 1514.8,137.9 1523.2,134.6 1531.6,131.3 1540.0,128.0" fill="none" stroke="#fbbf24" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="40" y="196" width="1000" height="400" rx="14" fill="#111826" stroke="#1f2937" stroke-width="1" />
+<text x="64" y="230" font-size="15.5" fill="#e5e7eb" font-weight="700" text-anchor="start" >Pipeline topology</text>
+<text x="64" y="249" font-size="12" fill="#8b93a7" font-weight="400" text-anchor="start" >Billing · CRM · Inventory → Kafka → consumers → sinks</text>
+<circle cx="920" cy="226" r="4" fill="#34d399"/>
+<text x="932" y="230" font-size="12" fill="#34d399" font-weight="600" text-anchor="start" >All consumers up</text>
+<text x="64" y="282" font-size="10" fill="#5b6478" font-weight="700" text-anchor="start" letter-spacing="1.2">SOURCES</text>
+<text x="290" y="282" font-size="10" fill="#5b6478" font-weight="700" text-anchor="start" letter-spacing="1.2">KAFKA TOPICS</text>
+<text x="600" y="282" font-size="10" fill="#5b6478" font-weight="700" text-anchor="start" letter-spacing="1.2">CONSUMERS · NODE.JS</text>
+<text x="850" y="282" font-size="10" fill="#5b6478" font-weight="700" text-anchor="start" letter-spacing="1.2">SINKS</text>
+<rect x="272" y="292" width="258" height="262" rx="16" fill="#0d1522" stroke="#1f2937" stroke-width="1.4" stroke-dasharray="5 5"/>
+<text x="288" y="312" font-size="10.5" fill="#38bdf8" font-weight="650" text-anchor="start" >Apache Kafka · 3 brokers · RF 3</text>
+<rect x="64" y="295.0" width="176" height="62" rx="12" fill="#151e2e" stroke="#1f2937" stroke-width="1.3" />
+<rect x="74" y="312" width="28" height="28" rx="8" fill="#0f1a2b" />
+<g transform="translate(80.56,318.56) scale(0.62)" fill="none" stroke="#38bdf8" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="M7 10 l2.5 2 l-2.5 2 M12 15 h5"/></g>
+<text x="112" y="323" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" >Billing service</text>
+<text x="112" y="340" font-size="10.5" fill="#8b93a7" font-weight="500" text-anchor="start" >REST + webhooks</text>
+<rect x="286" y="300" width="230" height="52" rx="10" fill="#151e2e" stroke="#1f2937" stroke-width="1.3" />
+<text x="300" y="322" font-size="11.8" fill="#e5e7eb" font-weight="600" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">billing.invoice.created</text>
+<text x="300" y="340" font-size="10.5" fill="#8b93a7" font-weight="500" text-anchor="start" >12 partitions</text>
+<rect x="454" y="316" width="58" height="20" rx="10.0" fill="#0c2b44" />
+<text x="483.0" y="330.0" font-size="10.5" fill="#38bdf8" font-weight="600" text-anchor="middle" >6.2k/s</text>
+<rect x="600" y="295.0" width="176" height="62" rx="12" fill="#151e2e" stroke="#1f2937" stroke-width="1.4" />
+<rect x="610" y="312" width="28" height="28" rx="8" fill="#10241d" />
+<g transform="translate(616.56,318.56) scale(0.62)" fill="none" stroke="#34d399" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 L20 7.5 V16.5 L12 21 L4 16.5 V7.5 Z"/><path d="M9.5 15 V9.5 l5 5.5 V9"/></g>
+<text x="648" y="322" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" >invoice-sync</text>
+<text x="648" y="339" font-size="10.5" fill="#8b93a7" font-weight="500">4 pods · <tspan fill="#34d399" font-weight="700">lag 120</tspan></text>
+<rect x="840" y="295.0" width="176" height="62" rx="12" fill="#151e2e" stroke="#1f2937" stroke-width="1.3" />
+<rect x="850" y="312" width="28" height="28" rx="8" fill="#0f1a2b" />
+<g transform="translate(856.56,318.56) scale(0.62)" fill="none" stroke="#a78bfa" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="3"/><path d="M4 10 H20 M10 10 V20"/></g>
+<text x="888" y="323" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" >ERP system</text>
+<text x="888" y="340" font-size="10.5" fill="#8b93a7" font-weight="500" text-anchor="start" >gRPC · idempotent</text>
+<line x1="240" y1="326" x2="285" y2="326" stroke="#38bdf8" stroke-width="2" marker-end="url(#mc)"/>
+<line x1="526" y1="326" x2="599" y2="326" stroke="#38bdf8" stroke-width="2" marker-end="url(#mc)"/>
+<line x1="776" y1="326" x2="839" y2="326" stroke="#38bdf8" stroke-width="2" marker-end="url(#mc)"/>
+<circle cx="250" cy="326" r="2.5" fill="#e0f2fe"/>
+<circle cx="549.0" cy="326" r="2.5" fill="#e0f2fe"/>
+<circle cx="573.0" cy="326" r="2.5" fill="#e0f2fe"/>
+<circle cx="802.0" cy="326" r="2.5" fill="#e0f2fe"/>
+<rect x="64" y="381.0" width="176" height="62" rx="12" fill="#151e2e" stroke="#1f2937" stroke-width="1.3" />
+<rect x="74" y="398" width="28" height="28" rx="8" fill="#0f1a2b" />
+<g transform="translate(80.56,404.56) scale(0.62)" fill="none" stroke="#38bdf8" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M8 14 a4 4 0 1 1 4 -6 M16 10 a4 4 0 1 1 -4 6 M9 15 l6 -6"/></g>
+<text x="112" y="409" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" >CRM platform</text>
+<text x="112" y="426" font-size="10.5" fill="#8b93a7" font-weight="500" text-anchor="start" >Webhooks · OAuth</text>
+<rect x="286" y="386" width="230" height="52" rx="10" fill="#151e2e" stroke="#1f2937" stroke-width="1.3" />
+<text x="300" y="408" font-size="11.8" fill="#e5e7eb" font-weight="600" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">crm.contact.updated</text>
+<text x="300" y="426" font-size="10.5" fill="#8b93a7" font-weight="500" text-anchor="start" >6 partitions</text>
+<rect x="454" y="402" width="58" height="20" rx="10.0" fill="#0c2b44" />
+<text x="483.0" y="416.0" font-size="10.5" fill="#38bdf8" font-weight="600" text-anchor="middle" >4.8k/s</text>
+<rect x="600" y="381.0" width="176" height="62" rx="12" fill="#151e2e" stroke="#1f2937" stroke-width="1.4" />
+<rect x="610" y="398" width="28" height="28" rx="8" fill="#10241d" />
+<g transform="translate(616.56,404.56) scale(0.62)" fill="none" stroke="#34d399" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 L20 7.5 V16.5 L12 21 L4 16.5 V7.5 Z"/><path d="M9.5 15 V9.5 l5 5.5 V9"/></g>
+<text x="648" y="408" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" >crm-enricher</text>
+<text x="648" y="425" font-size="10.5" fill="#8b93a7" font-weight="500">3 pods · <tspan fill="#34d399" font-weight="700">lag 84</tspan></text>
+<rect x="840" y="381.0" width="176" height="62" rx="12" fill="#151e2e" stroke="#1f2937" stroke-width="1.3" />
+<rect x="850" y="398" width="28" height="28" rx="8" fill="#0f1a2b" />
+<g transform="translate(856.56,404.56) scale(0.62)" fill="none" stroke="#a78bfa" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 18 V10 M10 18 V5 M16 18 V12 M21 18 V8"/></g>
+<text x="888" y="409" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" >BigQuery</text>
+<text x="888" y="426" font-size="10.5" fill="#8b93a7" font-weight="500" text-anchor="start" >Streaming insert</text>
+<line x1="240" y1="412" x2="285" y2="412" stroke="#38bdf8" stroke-width="2" marker-end="url(#mc)"/>
+<line x1="526" y1="412" x2="599" y2="412" stroke="#38bdf8" stroke-width="2" marker-end="url(#mc)"/>
+<line x1="776" y1="412" x2="839" y2="412" stroke="#38bdf8" stroke-width="2" marker-end="url(#mc)"/>
+<circle cx="250" cy="412" r="2.5" fill="#e0f2fe"/>
+<circle cx="549.0" cy="412" r="2.5" fill="#e0f2fe"/>
+<circle cx="573.0" cy="412" r="2.5" fill="#e0f2fe"/>
+<circle cx="802.0" cy="412" r="2.5" fill="#e0f2fe"/>
+<rect x="64" y="467.0" width="176" height="62" rx="12" fill="#151e2e" stroke="#1f2937" stroke-width="1.3" />
+<rect x="74" y="484" width="28" height="28" rx="8" fill="#0f1a2b" />
+<g transform="translate(80.56,490.56) scale(0.62)" fill="none" stroke="#38bdf8" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="6" rx="7" ry="3"/><path d="M5 6 v12 c0 1.7 3.1 3 7 3 s7 -1.3 7 -3 V6 M5 12 c0 1.7 3.1 3 7 3 s7 -1.3 7 -3"/></g>
+<text x="112" y="495" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" >Inventory DB</text>
+<text x="112" y="512" font-size="10.5" fill="#8b93a7" font-weight="500" text-anchor="start" >CDC · Debezium</text>
+<rect x="286" y="472" width="230" height="52" rx="10" fill="#151e2e" stroke="#1f2937" stroke-width="1.3" />
+<text x="300" y="494" font-size="11.8" fill="#e5e7eb" font-weight="600" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">inventory.stock.changed</text>
+<text x="300" y="512" font-size="10.5" fill="#8b93a7" font-weight="500" text-anchor="start" >12 partitions</text>
+<rect x="454" y="488" width="58" height="20" rx="10.0" fill="#0c2b44" />
+<text x="483.0" y="502.0" font-size="10.5" fill="#38bdf8" font-weight="600" text-anchor="middle" >7.4k/s</text>
+<rect x="600" y="467.0" width="176" height="62" rx="12" fill="#151e2e" stroke="#fbbf24" stroke-width="1.4" />
+<rect x="610" y="484" width="28" height="28" rx="8" fill="#10241d" />
+<g transform="translate(616.56,490.56) scale(0.62)" fill="none" stroke="#34d399" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 L20 7.5 V16.5 L12 21 L4 16.5 V7.5 Z"/><path d="M9.5 15 V9.5 l5 5.5 V9"/></g>
+<text x="648" y="494" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" >stock-reconciler</text>
+<text x="648" y="511" font-size="10.5" fill="#8b93a7" font-weight="500">6 pods · <tspan fill="#fbbf24" font-weight="700">lag 1.0k</tspan></text>
+<rect x="840" y="467.0" width="176" height="62" rx="12" fill="#151e2e" stroke="#1f2937" stroke-width="1.3" />
+<rect x="850" y="484" width="28" height="28" rx="8" fill="#0f1a2b" />
+<g transform="translate(856.56,490.56) scale(0.62)" fill="none" stroke="#a78bfa" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="6" rx="7" ry="3"/><path d="M5 6 v12 c0 1.7 3.1 3 7 3 s7 -1.3 7 -3 V6 M5 12 c0 1.7 3.1 3 7 3 s7 -1.3 7 -3"/></g>
+<text x="888" y="495" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" >Inventory API</text>
+<text x="888" y="512" font-size="10.5" fill="#8b93a7" font-weight="500" text-anchor="start" >REST · retries</text>
+<line x1="240" y1="498" x2="285" y2="498" stroke="#38bdf8" stroke-width="2" marker-end="url(#mc)"/>
+<line x1="526" y1="498" x2="599" y2="498" stroke="#38bdf8" stroke-width="2" marker-end="url(#mc)"/>
+<line x1="776" y1="498" x2="839" y2="498" stroke="#38bdf8" stroke-width="2" marker-end="url(#mc)"/>
+<circle cx="250" cy="498" r="2.5" fill="#e0f2fe"/>
+<circle cx="549.0" cy="498" r="2.5" fill="#e0f2fe"/>
+<circle cx="573.0" cy="498" r="2.5" fill="#e0f2fe"/>
+<circle cx="802.0" cy="498" r="2.5" fill="#e0f2fe"/>
+<rect x="600" y="550" width="416" height="34" rx="10" fill="#2a2008" stroke="#fbbf24" stroke-width="1.3" stroke-dasharray="5 4"/>
+<g transform="translate(612.56,559.56) scale(0.62)" fill="none" stroke="#fbbf24" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 a7.5 7.5 0 0 0 -7.5 7.5 c0 2.6 1.3 4 3 5 V19 h9 v-3.5 c1.7 -1 3 -2.4 3 -5 A7.5 7.5 0 0 0 12 3z"/><circle cx="9" cy="11" r="1.3" fill="#fbbf24"/><circle cx="15" cy="11" r="1.3" fill="#fbbf24"/></g>
+<text x="638" y="571" font-size="11.5" fill="#fbbf24" font-weight="650" text-anchor="start" >Dead-letter topics · 37 msgs · retry 3/5</text>
+<rect x="940" y="556" width="66" height="22" rx="11" fill="#fbbf24" />
+<text x="973" y="571" font-size="11" fill="#1c1303" font-weight="700" text-anchor="middle" >Replay</text>
+<line x1="688.0" y1="529.0" x2="688.0" y2="548" stroke="#fbbf24" stroke-width="2" stroke-dasharray="4 4" marker-end="url(#ma)"/>
+<text x="64" y="568" font-size="10.5" fill="#5b6478" font-weight="500" text-anchor="start" >exactly-once · idempotent producers · schema registry</text>
+<rect x="1060" y="196" width="500" height="400" rx="14" fill="#111826" stroke="#1f2937" stroke-width="1" />
+<text x="1082" y="230" font-size="15.5" fill="#e5e7eb" font-weight="700" text-anchor="start" >Throughput by topic</text>
+<text x="1082" y="249" font-size="12" fill="#8b93a7" font-weight="400" text-anchor="start" >events / sec · last 15 min</text>
+<circle cx="1360" cy="226" r="4" fill="#38bdf8"/>
+<text x="1370" y="230" font-size="11" fill="#cbd5e1" font-weight="500" text-anchor="start" >billing</text>
+<circle cx="1422" cy="226" r="4" fill="#a78bfa"/>
+<text x="1432" y="230" font-size="11" fill="#cbd5e1" font-weight="500" text-anchor="start" >crm</text>
+<circle cx="1484" cy="226" r="4" fill="#34d399"/>
+<text x="1494" y="230" font-size="11" fill="#cbd5e1" font-weight="500" text-anchor="start" >inventory</text>
+<line x1="1114" y1="492.0" x2="1538" y2="492.0" stroke="#1a2333"/>
+<text x="1104" y="496.0" font-size="10.5" fill="#5b6478" font-weight="400" text-anchor="end" >0</text>
+<line x1="1114" y1="439.0" x2="1538" y2="439.0" stroke="#1a2333"/>
+<text x="1104" y="443.0" font-size="10.5" fill="#5b6478" font-weight="400" text-anchor="end" >2.5k</text>
+<line x1="1114" y1="386.0" x2="1538" y2="386.0" stroke="#1a2333"/>
+<text x="1104" y="390.0" font-size="10.5" fill="#5b6478" font-weight="400" text-anchor="end" >5k</text>
+<line x1="1114" y1="333.0" x2="1538" y2="333.0" stroke="#1a2333"/>
+<text x="1104" y="337.0" font-size="10.5" fill="#5b6478" font-weight="400" text-anchor="end" >7.5k</text>
+<line x1="1114" y1="280.0" x2="1538" y2="280.0" stroke="#1a2333"/>
+<text x="1104" y="284.0" font-size="10.5" fill="#5b6478" font-weight="400" text-anchor="end" >10k</text>
+<path d="M1114.0,371.5 L1121.2,365.2 L1128.4,363.2 L1135.6,362.1 L1142.7,362.0 L1149.9,355.9 L1157.1,354.3 L1164.3,355.3 L1171.5,354.6 L1178.7,356.2 L1185.9,358.0 L1193.1,355.7 L1200.2,354.9 L1207.4,360.0 L1214.6,356.1 L1221.8,362.1 L1229.0,364.2 L1236.2,367.9 L1243.4,363.3 L1250.5,367.6 L1257.7,369.1 L1264.9,373.4 L1272.1,379.9 L1279.3,379.8 L1286.5,380.3 L1293.7,384.6 L1300.8,379.5 L1308.0,384.5 L1315.2,386.4 L1322.4,381.4 L1329.6,386.1 L1336.8,379.2 L1344.0,381.5 L1351.2,379.1 L1358.3,378.8 L1365.5,375.6 L1372.7,375.5 L1379.9,374.2 L1387.1,365.6 L1394.3,367.8 L1401.5,361.4 L1408.6,363.4 L1415.8,355.8 L1423.0,354.6 L1430.2,354.3 L1437.4,353.2 L1444.6,353.9 L1451.8,352.5 L1458.9,357.2 L1466.1,355.1 L1473.3,353.4 L1480.5,359.4 L1487.7,355.7 L1494.9,357.9 L1502.1,363.6 L1509.3,366.3 L1516.4,368.0 L1523.6,371.0 L1530.8,368.9 L1538.0,375.8" fill="none" stroke="#38bdf8" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M1114.0,389.2 L1121.2,388.6 L1128.4,384.8 L1135.6,383.5 L1142.7,387.6 L1149.9,388.7 L1157.1,389.8 L1164.3,390.2 L1171.5,395.4 L1178.7,395.0 L1185.9,397.4 L1193.1,399.1 L1200.2,404.0 L1207.4,406.1 L1214.6,406.8 L1221.8,404.8 L1229.0,409.9 L1236.2,409.4 L1243.4,412.1 L1250.5,413.8 L1257.7,414.2 L1264.9,409.2 L1272.1,408.9 L1279.3,410.5 L1286.5,407.4 L1293.7,406.0 L1300.8,402.8 L1308.0,400.6 L1315.2,402.0 L1322.4,396.2 L1329.6,394.3 L1336.8,394.6 L1344.0,390.7 L1351.2,391.4 L1358.3,390.5 L1365.5,390.0 L1372.7,384.9 L1379.9,388.7 L1387.1,388.8 L1394.3,384.1 L1401.5,384.5 L1408.6,387.0 L1415.8,385.7 L1423.0,391.9 L1430.2,392.1 L1437.4,393.7 L1444.6,394.8 L1451.8,398.4 L1458.9,401.1 L1466.1,401.5 L1473.3,400.0 L1480.5,401.5 L1487.7,404.8 L1494.9,408.1 L1502.1,410.8 L1509.3,407.4 L1516.4,410.8 L1523.6,409.9 L1530.8,414.4 L1538.0,412.9" fill="none" stroke="#a78bfa" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M1114.0,329.9 L1121.2,332.8 L1128.4,334.7 L1135.6,339.9 L1142.7,344.2 L1149.9,345.7 L1157.1,346.0 L1164.3,353.0 L1171.5,353.3 L1178.7,357.3 L1185.9,354.5 L1193.1,361.9 L1200.2,356.8 L1207.4,354.6 L1214.6,362.1 L1221.8,356.4 L1229.0,354.7 L1236.2,351.2 L1243.4,351.5 L1250.5,351.9 L1257.7,348.1 L1264.9,340.7 L1272.1,338.3 L1279.3,342.1 L1286.5,339.6 L1293.7,337.0 L1300.8,335.2 L1308.0,329.6 L1315.2,330.4 L1322.4,322.9 L1329.6,323.7 L1336.8,327.8 L1344.0,324.2 L1351.2,326.5 L1358.3,326.0 L1365.5,329.7 L1372.7,331.9 L1379.9,333.8 L1387.1,334.5 L1394.3,334.3 L1401.5,338.4 L1408.6,404.1 L1415.8,402.4 L1423.0,403.2 L1430.2,405.2 L1437.4,406.6 L1444.6,358.3 L1451.8,356.1 L1458.9,360.8 L1466.1,355.8 L1473.3,361.2 L1480.5,356.6 L1487.7,359.9 L1494.9,355.2 L1502.1,357.0 L1509.3,357.5 L1516.4,352.5 L1523.6,350.7 L1530.8,343.1 L1538.0,345.5 L1538,492 L1114,492Z" fill="url(#ar)" opacity=".7"/>
+<path d="M1114.0,329.9 L1121.2,332.8 L1128.4,334.7 L1135.6,339.9 L1142.7,344.2 L1149.9,345.7 L1157.1,346.0 L1164.3,353.0 L1171.5,353.3 L1178.7,357.3 L1185.9,354.5 L1193.1,361.9 L1200.2,356.8 L1207.4,354.6 L1214.6,362.1 L1221.8,356.4 L1229.0,354.7 L1236.2,351.2 L1243.4,351.5 L1250.5,351.9 L1257.7,348.1 L1264.9,340.7 L1272.1,338.3 L1279.3,342.1 L1286.5,339.6 L1293.7,337.0 L1300.8,335.2 L1308.0,329.6 L1315.2,330.4 L1322.4,322.9 L1329.6,323.7 L1336.8,327.8 L1344.0,324.2 L1351.2,326.5 L1358.3,326.0 L1365.5,329.7 L1372.7,331.9 L1379.9,333.8 L1387.1,334.5 L1394.3,334.3 L1401.5,338.4 L1408.6,404.1 L1415.8,402.4 L1423.0,403.2 L1430.2,405.2 L1437.4,406.6 L1444.6,358.3 L1451.8,356.1 L1458.9,360.8 L1466.1,355.8 L1473.3,361.2 L1480.5,356.6 L1487.7,359.9 L1494.9,355.2 L1502.1,357.0 L1509.3,357.5 L1516.4,352.5 L1523.6,350.7 L1530.8,343.1 L1538.0,345.5" fill="none" stroke="#34d399" stroke-width="2.2" stroke-linejoin="round"/>
+<line x1="1329.6" y1="274" x2="1329.6" y2="492" stroke="#475569" stroke-dasharray="3 4"/>
+<rect x="1287.593220338983" y="256" width="84" height="18" rx="9.0" fill="#1e293b" />
+<text x="1329.593220338983" y="269.0" font-size="9.5" fill="#cbd5e1" font-weight="600" text-anchor="middle" >deploy v2.8.1</text>
+<circle cx="1423.0" cy="403.2" r="5" fill="#0a0e15" stroke="#fbbf24" stroke-width="2.5"/>
+<rect x="1331.0169491525423" y="417.19743243619973" width="116" height="22" rx="8" fill="#33260b" />
+<text x="1389.0169491525423" y="432.19743243619973" font-size="10" fill="#fbbf24" font-weight="650" text-anchor="middle" >lag spike · recovered</text>
+<text x="1114.0" y="512" font-size="10.5" fill="#5b6478" font-weight="400" text-anchor="middle" >14:38</text>
+<text x="1198.8" y="512" font-size="10.5" fill="#5b6478" font-weight="400" text-anchor="middle" >14:41</text>
+<text x="1283.6" y="512" font-size="10.5" fill="#5b6478" font-weight="400" text-anchor="middle" >14:44</text>
+<text x="1368.4" y="512" font-size="10.5" fill="#5b6478" font-weight="400" text-anchor="middle" >14:47</text>
+<text x="1453.2" y="512" font-size="10.5" fill="#5b6478" font-weight="400" text-anchor="middle" >14:50</text>
+<text x="1538.0" y="512" font-size="10.5" fill="#5b6478" font-weight="400" text-anchor="middle" >14:53</text>
+<line x1="1082" y1="528" x2="1538" y2="528" stroke="#1f2937"/>
+<text x="1082" y="556" font-size="17" fill="#e5e7eb" font-weight="700" text-anchor="start" >38 ms</text>
+<text x="1082" y="574" font-size="11" fill="#8b93a7" font-weight="500" text-anchor="start" >p50</text>
+<text x="1238" y="556" font-size="17" fill="#e5e7eb" font-weight="700" text-anchor="start" >126 ms</text>
+<text x="1238" y="574" font-size="11" fill="#8b93a7" font-weight="500" text-anchor="start" >p99</text>
+<text x="1394" y="556" font-size="17" fill="#e5e7eb" font-weight="700" text-anchor="start" >0.002%</text>
+<text x="1394" y="574" font-size="11" fill="#8b93a7" font-weight="500" text-anchor="start" >error rate</text>
+<rect x="40" y="616" width="760" height="364" rx="14" fill="#111826" stroke="#1f2937" stroke-width="1" />
+<text x="64" y="650" font-size="15.5" fill="#e5e7eb" font-weight="700" text-anchor="start" >Topics &amp; consumer groups</text>
+<rect x="692" y="633" width="84" height="24" rx="12.0" fill="#1a2233" />
+<text x="734.0" y="649.0" font-size="11" fill="#8b93a7" font-weight="600" text-anchor="middle" >5 topics</text>
+<rect x="40" y="672" width="760" height="30" rx="0" fill="#0e1522" />
+<line x1="40" y1="672" x2="800" y2="672" stroke="#1f2937"/><line x1="40" y1="702" x2="800" y2="702" stroke="#1f2937"/>
+<text x="64" y="692" font-size="10" fill="#5b6478" font-weight="700" text-anchor="start" letter-spacing=".9">TOPIC</text>
+<text x="276" y="692" font-size="10" fill="#5b6478" font-weight="700" text-anchor="start" letter-spacing=".9">PART.</text>
+<text x="340" y="692" font-size="10" fill="#5b6478" font-weight="700" text-anchor="start" letter-spacing=".9">THROUGHPUT</text>
+<text x="432" y="692" font-size="10" fill="#5b6478" font-weight="700" text-anchor="start" letter-spacing=".9">CONSUMER GROUP</text>
+<text x="588" y="692" font-size="10" fill="#5b6478" font-weight="700" text-anchor="start" letter-spacing=".9">LAG</text>
+<text x="686" y="692" font-size="10" fill="#5b6478" font-weight="700" text-anchor="start" letter-spacing=".9">STATUS</text>
+<text x="64" y="733" font-size="12.5" fill="#e5e7eb" font-weight="600" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">billing.invoice.created</text>
+<text x="276" y="733" font-size="12.5" fill="#8b93a7" font-weight="500" text-anchor="start" >12</text>
+<text x="340" y="733" font-size="12.5" fill="#e5e7eb" font-weight="600" text-anchor="start" >6.2k/s</text>
+<text x="432" y="733" font-size="12.5" fill="#cbd5e1" font-weight="500" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">invoice-sync</text>
+<rect x="588" y="726" width="48" height="6" rx="3" fill="#1a2333" />
+<rect x="588" y="726" width="4.8" height="6" rx="3" fill="#34d399" />
+<text x="644" y="733" font-size="12" fill="#34d399" font-weight="650" text-anchor="start" >120</text>
+<rect x="686" y="718" width="70" height="22" rx="11.0" fill="#0f2a22" />
+<text x="721.0" y="733.0" font-size="10.5" fill="#34d399" font-weight="600" text-anchor="middle" >● Healthy</text>
+<line x1="40" y1="754" x2="800" y2="754" stroke="#172033"/>
+<text x="64" y="785" font-size="12.5" fill="#e5e7eb" font-weight="600" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">crm.contact.updated</text>
+<text x="276" y="785" font-size="12.5" fill="#8b93a7" font-weight="500" text-anchor="start" >6</text>
+<text x="340" y="785" font-size="12.5" fill="#e5e7eb" font-weight="600" text-anchor="start" >4.8k/s</text>
+<text x="432" y="785" font-size="12.5" fill="#cbd5e1" font-weight="500" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">crm-enricher</text>
+<rect x="588" y="778" width="48" height="6" rx="3" fill="#1a2333" />
+<rect x="588" y="778" width="3.36" height="6" rx="3" fill="#34d399" />
+<text x="644" y="785" font-size="12" fill="#34d399" font-weight="650" text-anchor="start" >84</text>
+<rect x="686" y="770" width="70" height="22" rx="11.0" fill="#0f2a22" />
+<text x="721.0" y="785.0" font-size="10.5" fill="#34d399" font-weight="600" text-anchor="middle" >● Healthy</text>
+<line x1="40" y1="806" x2="800" y2="806" stroke="#172033"/>
+<text x="64" y="837" font-size="12.5" fill="#e5e7eb" font-weight="600" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">inventory.stock.changed</text>
+<text x="276" y="837" font-size="12.5" fill="#8b93a7" font-weight="500" text-anchor="start" >12</text>
+<text x="340" y="837" font-size="12.5" fill="#e5e7eb" font-weight="600" text-anchor="start" >7.4k/s</text>
+<text x="432" y="837" font-size="12.5" fill="#cbd5e1" font-weight="500" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">stock-reconciler</text>
+<rect x="588" y="830" width="48" height="6" rx="3" fill="#1a2333" />
+<rect x="588" y="830" width="40.16" height="6" rx="3" fill="#fbbf24" />
+<text x="644" y="837" font-size="12" fill="#fbbf24" font-weight="650" text-anchor="start" >1,004</text>
+<rect x="686" y="822" width="70" height="22" rx="11.0" fill="#33260b" />
+<text x="721.0" y="837.0" font-size="10.5" fill="#fbbf24" font-weight="600" text-anchor="middle" >● Lagging</text>
+<line x1="40" y1="858" x2="800" y2="858" stroke="#172033"/>
+<text x="64" y="889" font-size="12.5" fill="#e5e7eb" font-weight="600" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">billing.refund.requested</text>
+<text x="276" y="889" font-size="12.5" fill="#8b93a7" font-weight="500" text-anchor="start" >6</text>
+<text x="340" y="889" font-size="12.5" fill="#e5e7eb" font-weight="600" text-anchor="start" >0.9k/s</text>
+<text x="432" y="889" font-size="12.5" fill="#cbd5e1" font-weight="500" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">refund-worker</text>
+<rect x="588" y="882" width="48" height="6" rx="3" fill="#1a2333" />
+<rect x="588" y="882" width="0.48" height="6" rx="3" fill="#34d399" />
+<text x="644" y="889" font-size="12" fill="#34d399" font-weight="650" text-anchor="start" >12</text>
+<rect x="686" y="874" width="70" height="22" rx="11.0" fill="#0f2a22" />
+<text x="721.0" y="889.0" font-size="10.5" fill="#34d399" font-weight="600" text-anchor="middle" >● Healthy</text>
+<line x1="40" y1="910" x2="800" y2="910" stroke="#172033"/>
+<text x="64" y="941" font-size="12.5" fill="#e5e7eb" font-weight="600" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">orders.fulfilled</text>
+<text x="276" y="941" font-size="12.5" fill="#8b93a7" font-weight="500" text-anchor="start" >8</text>
+<text x="340" y="941" font-size="12.5" fill="#e5e7eb" font-weight="600" text-anchor="start" >3.1k/s</text>
+<text x="432" y="941" font-size="12.5" fill="#cbd5e1" font-weight="500" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">order-projector</text>
+<rect x="588" y="934" width="48" height="6" rx="3" fill="#1a2333" />
+<rect x="588" y="934" width="1.84" height="6" rx="3" fill="#34d399" />
+<text x="644" y="941" font-size="12" fill="#34d399" font-weight="650" text-anchor="start" >46</text>
+<rect x="686" y="926" width="70" height="22" rx="11.0" fill="#0f2a22" />
+<text x="721.0" y="941.0" font-size="10.5" fill="#34d399" font-weight="600" text-anchor="middle" >● Healthy</text>
+<rect x="820" y="616" width="360" height="364" rx="14" fill="#111826" stroke="#1f2937" stroke-width="1" />
+<text x="842" y="650" font-size="15.5" fill="#e5e7eb" font-weight="700" text-anchor="start" >Dead-letter queue</text>
+<text x="842" y="694" font-size="34" fill="#fbbf24" font-weight="700" text-anchor="start" >37</text>
+<text x="904" y="694" font-size="12" fill="#8b93a7" font-weight="500" text-anchor="start" >messages</text>
+<rect x="1060" y="668" width="98" height="30" rx="9" fill="#fbbf24" />
+<text x="1109" y="688" font-size="12.5" fill="#1c1303" font-weight="700" text-anchor="middle" >Replay all</text>
+<line x1="842" y1="714" x2="1158" y2="714" stroke="#1f2937"/>
+<text x="842" y="744" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">inv-88213</text>
+<text x="842" y="762" font-size="11.5" fill="#fca5a5" font-weight="500" text-anchor="start" >SchemaValidationError</text>
+<text x="1158" y="744" font-size="11" fill="#5b6478" font-weight="500" text-anchor="end" >2m ago</text>
+<text x="1158" y="762" font-size="11.5" fill="#38bdf8" font-weight="650" text-anchor="end" >Replay</text>
+<line x1="842" y1="778" x2="1158" y2="778" stroke="#172033"/>
+<text x="842" y="800" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">crm-44121</text>
+<text x="842" y="818" font-size="11.5" fill="#fca5a5" font-weight="500" text-anchor="start" >Upstream 503 · ERP</text>
+<text x="1158" y="800" font-size="11" fill="#5b6478" font-weight="500" text-anchor="end" >5m ago</text>
+<text x="1158" y="818" font-size="11.5" fill="#38bdf8" font-weight="650" text-anchor="end" >Replay</text>
+<line x1="842" y1="834" x2="1158" y2="834" stroke="#172033"/>
+<text x="842" y="856" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">stk-99213</text>
+<text x="842" y="874" font-size="11.5" fill="#fca5a5" font-weight="500" text-anchor="start" >DuplicateKey · idempotency</text>
+<text x="1158" y="856" font-size="11" fill="#5b6478" font-weight="500" text-anchor="end" >12m ago</text>
+<text x="1158" y="874" font-size="11.5" fill="#38bdf8" font-weight="650" text-anchor="end" >Replay</text>
+<line x1="842" y1="890" x2="1158" y2="890" stroke="#172033"/>
+<text x="842" y="912" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">inv-88190</text>
+<text x="842" y="930" font-size="11.5" fill="#fca5a5" font-weight="500" text-anchor="start" >Timeout after 30s</text>
+<text x="1158" y="912" font-size="11" fill="#5b6478" font-weight="500" text-anchor="end" >19m ago</text>
+<text x="1158" y="930" font-size="11.5" fill="#38bdf8" font-weight="650" text-anchor="end" >Replay</text>
+<text x="842" y="962" font-size="11" fill="#5b6478" font-weight="500" text-anchor="start" >Backoff 1s → 30s · max 5 retries</text>
+<rect x="1200" y="616" width="360" height="364" rx="14" fill="#111826" stroke="#1f2937" stroke-width="1" />
+<text x="1222" y="650" font-size="15.5" fill="#e5e7eb" font-weight="700" text-anchor="start" >Alerts</text>
+<rect x="1466" y="633" width="72" height="24" rx="12.0" fill="#33260b" />
+<text x="1502.0" y="649.0" font-size="11" fill="#fbbf24" font-weight="600" text-anchor="middle" >2 firing</text>
+<circle cx="1230" cy="692" r="12" fill="#fbbf24" opacity=".16"/>
+<circle cx="1230" cy="692" r="4.5" fill="#fbbf24"/>
+<text x="1254" y="690" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" >Consumer lag > 1k</text>
+<text x="1254" y="708" font-size="11" fill="#8b93a7" font-weight="500" text-anchor="start" >stock-reconciler · 2m</text>
+<text x="1538" y="690" font-size="10.5" fill="#fbbf24" font-weight="650" text-anchor="end" >Firing</text>
+<line x1="1222" y1="722" x2="1538" y2="722" stroke="#172033"/>
+<circle cx="1230" cy="748" r="12" fill="#fbbf24" opacity=".16"/>
+<circle cx="1230" cy="748" r="4.5" fill="#fbbf24"/>
+<text x="1254" y="746" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" >DLQ growth +12 / 10 min</text>
+<text x="1254" y="764" font-size="11" fill="#8b93a7" font-weight="500" text-anchor="start" >refund &amp; invoice topics · 6m</text>
+<text x="1538" y="746" font-size="10.5" fill="#fbbf24" font-weight="650" text-anchor="end" >Firing</text>
+<line x1="1222" y1="778" x2="1538" y2="778" stroke="#172033"/>
+<circle cx="1230" cy="804" r="12" fill="#34d399" opacity=".16"/>
+<circle cx="1230" cy="804" r="4.5" fill="#34d399"/>
+<text x="1254" y="802" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" >p99 latency &lt; 150 ms</text>
+<text x="1254" y="820" font-size="11" fill="#8b93a7" font-weight="500" text-anchor="start" >orders.fulfilled · 41m</text>
+<text x="1538" y="802" font-size="10.5" fill="#34d399" font-weight="650" text-anchor="end" >Resolved</text>
+<line x1="1222" y1="834" x2="1538" y2="834" stroke="#172033"/>
+<circle cx="1230" cy="860" r="12" fill="#38bdf8" opacity=".16"/>
+<circle cx="1230" cy="860" r="4.5" fill="#38bdf8"/>
+<text x="1254" y="858" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" >Broker 2 restarted</text>
+<text x="1254" y="876" font-size="11" fill="#8b93a7" font-weight="500" text-anchor="start" >auto-recovered · 1h</text>
+<text x="1538" y="858" font-size="10.5" fill="#38bdf8" font-weight="650" text-anchor="end" >Info</text>
+<line x1="1222" y1="890" x2="1538" y2="890" stroke="#172033"/>
+<circle cx="1230" cy="916" r="12" fill="#34d399" opacity=".16"/>
+<circle cx="1230" cy="916" r="4.5" fill="#34d399"/>
+<text x="1254" y="914" font-size="12.5" fill="#e5e7eb" font-weight="650" text-anchor="start" >Replay completed</text>
+<text x="1254" y="932" font-size="11" fill="#8b93a7" font-weight="500" text-anchor="start" >214 messages · 3h</text>
+<text x="1538" y="914" font-size="10.5" fill="#34d399" font-weight="650" text-anchor="end" >Resolved</text>
+<text x="1222" y="962" font-size="11" fill="#5b6478" font-weight="500" text-anchor="start" >Routed to Slack #ops-alerts · PagerDuty</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4N2EyM2VlZC0xY2MwLTRlZmYtODI3NC04N2FlMGJjMWJiOTAAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaP467o6J5YSir8gKaNs8sP0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2MzMwOTRlNy1jNDM0LTRmZGItYmFlMC01MjQzNzk5MmNhMTVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoYteyKwVMyj3zBUz8Z+FhVgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggcFq3HkQU1i77l9eBwWRYnvmWWfT0vQdLj9PEaAxBaXykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOu7Hmju8KELcVNtWaTl+pUAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIPcC6qcZBeYCe81xfZFTbuKYxR2ZAzYuhlTkouI3VS9iZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GZesZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjg3YTIzZWVkLTFjYzAtNGVmZi04Mjc0LTg3YWUwYmMxYmI5MC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmRkZGRjM2I4LTI1ZDUtNDdiNC1iYTY3LWQ2ZDk2MWRjNDQ1OXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBwWrceRBTWLvuX14HBZFie+ZZZ9PS9B0uP08RoDEFpfKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggSmo86lF0kwdWs9wd9KROpPzU3ANPLKvslOtudw3vvrqiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgggwGDaJbNvsbdJo8IEFEjVTH2k4bNDNxpFmKr5Pc+zUh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQKELglADn8fdjm3LCTw2g/iFGZp4s7UgNrz1HWGIqjisxTSMkddItUqLJK3F6aU6gJvDYqJviM/Qe0VlW2P1HIc=</c2pa:manifest></metadata></svg>

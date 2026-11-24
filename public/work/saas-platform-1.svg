@@ -1,0 +1,271 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" font-family="Inter,'Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" xmlns:c2pa="http://c2pa.org/manifest">
+<defs>
+<filter id="s" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="1" stdDeviation="2" flood-color="#0f172a" flood-opacity=".07"/></filter>
+<linearGradient id="ag" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14b8a6" stop-opacity=".28"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1600" height="1000" fill="#f6f7f9"/>
+<rect x="0" y="0" width="250" height="1000" rx="0" fill="#0f172a" />
+<g transform="translate(18.200000000000003,24.200000000000003) scale(1.15)" fill="none" stroke="#14b8a6" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3.2" fill="#14b8a6"/></g>
+<text x="52" y="45" font-size="20" fill="#fff" font-weight="700" text-anchor="start" >Orbit</text>
+<rect x="14" y="76" width="222" height="54" rx="14" fill="#fff" fill-opacity=".07"/>
+<circle cx="42" cy="103" r="16" fill="#0d9488"/>
+<text x="42" y="108.6" font-size="12.8" fill="#fff" font-weight="650" text-anchor="middle" >HL</text>
+<text x="68" y="98" font-size="13.5" fill="#fff" font-weight="650" text-anchor="start" >Halden Logistics</text>
+<text x="68" y="115" font-size="11" fill="#94a3b8" font-weight="500" text-anchor="start" >Enterprise · 42 seats</text>
+<g transform="translate(207.6,94.6) scale(0.7)" fill="none" stroke="#94a3b8" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M8 9.5 L12 5.5 L16 9.5 M8 14.5 L12 18.5 L16 14.5"/></g>
+<text x="26" y="166" font-size="10.5" fill="#64748b" font-weight="700" text-anchor="start" letter-spacing="1.2">MENU</text>
+<rect x="12" y="176" width="226" height="38" rx="10" fill="#0d9488" fill-opacity=".22"/>
+<rect x="12" y="186" width="3" height="18" rx="1.5" fill="#14b8a6" />
+<g transform="translate(28.64,185.64) scale(0.78)" fill="none" stroke="#5eead4" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="6.5" height="6.5" rx="1.6"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1.6"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1.6"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1.6"/></g>
+<text x="62" y="200" font-size="13.5" fill="#fff" font-weight="650" text-anchor="start" >Overview</text>
+<g transform="translate(28.64,227.64) scale(0.78)" fill="none" stroke="#94a3b8" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M5 20 V11 M12 20 V4 M19 20 V14"/></g>
+<text x="62" y="242" font-size="13.5" fill="#cbd5e1" font-weight="500" text-anchor="start" >Analytics</text>
+<g transform="translate(28.64,269.64) scale(0.78)" fill="none" stroke="#94a3b8" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="2.6"/><circle cx="6" cy="18" r="2.6"/><circle cx="18" cy="12" r="2.6"/><path d="M8.4 7 L15.6 11 M8.4 17 L15.6 13"/></g>
+<text x="62" y="284" font-size="13.5" fill="#cbd5e1" font-weight="500" text-anchor="start" >Workflows</text>
+<g transform="translate(28.64,311.64) scale(0.78)" fill="none" stroke="#94a3b8" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8.5" r="3.5"/><path d="M2.5 20 c0 -3.6 3 -5.5 6.5 -5.5 s6.5 1.9 6.5 5.5"/><path d="M16 5.2 a3.4 3.4 0 0 1 0 6.6 M18 14.8 c2.2 .6 3.5 2.3 3.5 5.2"/></g>
+<text x="62" y="326" font-size="13.5" fill="#cbd5e1" font-weight="500" text-anchor="start" >Members</text>
+<g transform="translate(28.64,353.64) scale(0.78)" fill="none" stroke="#94a3b8" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="3"/><path d="M2.5 10 H21.5 M6 15 h4"/></g>
+<text x="62" y="368" font-size="13.5" fill="#cbd5e1" font-weight="500" text-anchor="start" >Billing &amp; usage</text>
+<g transform="translate(28.64,395.64) scale(0.78)" fill="none" stroke="#94a3b8" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 L19 6 V12 c0 4.5 -3 7.5 -7 9 c-4 -1.5 -7 -4.5 -7 -9 V6 Z"/><path d="M8.5 12 l2.5 2.5 l4.5 -5"/></g>
+<text x="62" y="410" font-size="13.5" fill="#cbd5e1" font-weight="500" text-anchor="start" >Security &amp; SSO</text>
+<g transform="translate(28.64,437.64) scale(0.78)" fill="none" stroke="#94a3b8" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 7 H20 M4 12 H20 M4 17 H20"/><circle cx="9" cy="7" r="2" fill="#fff"/><circle cx="15" cy="12" r="2" fill="#fff"/><circle cx="8" cy="17" r="2" fill="#fff"/></g>
+<text x="62" y="452" font-size="13.5" fill="#cbd5e1" font-weight="500" text-anchor="start" >Settings</text>
+<text x="26" y="500" font-size="10.5" fill="#64748b" font-weight="700" text-anchor="start" letter-spacing="1.2">YOUR WORKSPACES</text>
+<rect x="12" y="512" width="226" height="46" rx="10" fill="#fff" fill-opacity=".07"/>
+<circle cx="38" cy="535" r="13" fill="#0d9488"/>
+<text x="38" y="539.55" font-size="10.4" fill="#fff" font-weight="650" text-anchor="middle" >HL</text>
+<text x="60" y="532" font-size="12.5" fill="#fff" font-weight="600" text-anchor="start" >Halden Logistics</text>
+<text x="60" y="547" font-size="10.5" fill="#64748b" font-weight="500" text-anchor="start" >Enterprise</text>
+<circle cx="222" cy="535" r="9" fill="#0d9488"/>
+<path d="M219.8 535.5 l1.6500000000000001 1.6500000000000001 l3.3000000000000003 -3.575" fill="none" stroke="#fff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="38" cy="587" r="13" fill="#7c3aed"/>
+<text x="38" y="591.55" font-size="10.4" fill="#fff" font-weight="650" text-anchor="middle" >BH</text>
+<text x="60" y="584" font-size="12.5" fill="#cbd5e1" font-weight="600" text-anchor="start" >Brightline Health</text>
+<text x="60" y="599" font-size="10.5" fill="#64748b" font-weight="500" text-anchor="start" >Business</text>
+<circle cx="38" cy="639" r="13" fill="#d97706"/>
+<text x="38" y="643.55" font-size="10.4" fill="#fff" font-weight="650" text-anchor="middle" >KE</text>
+<text x="60" y="636" font-size="12.5" fill="#cbd5e1" font-weight="600" text-anchor="start" >Kestrel Energy</text>
+<text x="60" y="651" font-size="10.5" fill="#64748b" font-weight="500" text-anchor="start" >Starter</text>
+<line x1="14" y1="880" x2="236" y2="880" stroke="#1e293b"/>
+<circle cx="40" cy="920" r="18" fill="#7c3aed"/>
+<text x="40" y="926.3" font-size="14.4" fill="#fff" font-weight="650" text-anchor="middle" >SK</text>
+<text x="66" y="915" font-size="13" fill="#fff" font-weight="600" text-anchor="start" >Sarah Kim</text>
+<text x="66" y="932" font-size="11" fill="#94a3b8" font-weight="500" text-anchor="start" >Workspace owner</text>
+<rect x="250" y="0" width="1350" height="64" rx="0" fill="#fff" />
+<line x1="250" y1="64" x2="1600" y2="64" stroke="#e4e7ec"/>
+<text x="282" y="38" font-size="13.5" fill="#98a2b3" font-weight="500" text-anchor="start" >Halden Logistics</text>
+<text x="398" y="38" font-size="13.5" fill="#cfd4dc" font-weight="400" text-anchor="start" >/</text>
+<text x="414" y="38" font-size="13.5" fill="#101828" font-weight="650" text-anchor="start" >Overview</text>
+<rect x="780" y="15" width="380" height="34" rx="10" fill="#f2f4f7" />
+<g transform="translate(793.84,23.84) scale(0.68)" fill="none" stroke="#98a2b3" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="6.5"/><path d="M16 16 L20.5 20.5"/></g>
+<text x="822" y="37" font-size="12.5" fill="#98a2b3" font-weight="500" text-anchor="start" >Search workflows, members, invoices…</text>
+<rect x="1136" y="22" width="0" height="0" rx="0" fill="none" />
+<text x="1148" y="37" font-size="11" fill="#98a2b3" font-weight="500" text-anchor="end" >⌘K</text>
+<rect x="1290" y="14" width="100" height="36" rx="10" fill="#fff" stroke="#d0d5dd" stroke-width="1" />
+<text x="1340" y="37" font-size="13" fill="#344054" font-weight="600" text-anchor="middle" >Invite</text>
+<rect x="1402" y="14" width="128" height="36" rx="10" fill="#101828" />
+<text x="1466" y="37" font-size="13" fill="#fff" font-weight="600" text-anchor="middle" >+ New workflow</text>
+<rect x="1544" y="16" width="32" height="32" rx="10" fill="none" />
+<g transform="translate(1550.4,22.4) scale(0.8)" fill="none" stroke="#667085" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M6 17 V11 a6 6 0 0 1 12 0 v6 l1.5 2 h-15z M10 21 h4"/></g>
+<circle cx="1568" cy="23" r="4.5" fill="#f04438" stroke="#fff" stroke-width="2"/>
+<text x="282" y="112" font-size="25" fill="#101828" font-weight="700" text-anchor="start" >Workspace overview</text>
+<text x="282" y="134" font-size="13" fill="#667085" font-weight="400" text-anchor="start" >Usage, adoption and billing across all teams in Halden Logistics</text>
+<rect x="1362" y="92" width="206" height="36" rx="10" fill="#fff" stroke="#e4e7ec" stroke-width="1" />
+<rect x="1498" y="95" width="67" height="30" rx="8" fill="#101828" opacity="0"/>
+<text x="1398" y="115" font-size="12.5" fill="#667085" font-weight="600" text-anchor="middle" >7d</text>
+<rect x="1434" y="96" width="64" height="28" rx="8" fill="#101828" />
+<text x="1466" y="115" font-size="12.5" fill="#fff" font-weight="600" text-anchor="middle" >30d</text>
+<text x="1534" y="115" font-size="12.5" fill="#667085" font-weight="600" text-anchor="middle" >90d</text>
+<rect x="282.0" y="152" width="306.5" height="110" rx="14" fill="#fff" stroke="#e4e7ec" stroke-width="1" filter="url(#s)"/>
+<text x="302.0" y="182" font-size="12.5" fill="#667085" font-weight="500" text-anchor="start" >Active users</text>
+<text x="302.0" y="224" font-size="30" fill="#101828" font-weight="700" text-anchor="start" >3,284</text>
+<rect x="302.0" y="234" width="66" height="20" rx="10.0" fill="#dcfae6" />
+<text x="335.0" y="248.0" font-size="10.5" fill="#067647" font-weight="600" text-anchor="middle" >▲ 12.4%</text>
+<text x="374.0" y="248" font-size="10.5" fill="#98a2b3" font-weight="400" text-anchor="start" >vs prev. 30d</text>
+<polyline points="476.5,233.0 485.1,231.0 493.7,231.5 502.3,228.0 510.9,229.0 519.5,225.0 528.1,225.5 536.7,222.0 545.3,220.5 553.9,218.0 562.5,216.0 571.1,213.0" fill="none" stroke="#0d9488" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="608.5" y="152" width="306.5" height="110" rx="14" fill="#fff" stroke="#e4e7ec" stroke-width="1" filter="url(#s)"/>
+<text x="628.5" y="182" font-size="12.5" fill="#667085" font-weight="500" text-anchor="start" >Workflow runs</text>
+<text x="628.5" y="224" font-size="30" fill="#101828" font-weight="700" text-anchor="start" >128.4k</text>
+<rect x="628.5" y="234" width="66" height="20" rx="10.0" fill="#dcfae6" />
+<text x="661.5" y="248.0" font-size="10.5" fill="#067647" font-weight="600" text-anchor="middle" >▲ 8.1%</text>
+<text x="700.5" y="248" font-size="10.5" fill="#98a2b3" font-weight="400" text-anchor="start" >vs prev. 30d</text>
+<polyline points="803.0,228.0 811.6,227.0 820.2,229.0 828.8,225.0 837.4,223.0 846.0,224.0 854.6,220.0 863.2,219.0 871.8,219.5 880.4,216.0 889.0,215.0 897.6,212.0" fill="none" stroke="#0d9488" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="935.0" y="152" width="306.5" height="110" rx="14" fill="#fff" stroke="#e4e7ec" stroke-width="1" filter="url(#s)"/>
+<text x="955.0" y="182" font-size="12.5" fill="#667085" font-weight="500" text-anchor="start" >API calls</text>
+<text x="955.0" y="224" font-size="30" fill="#101828" font-weight="700" text-anchor="start" >1.82M</text>
+<rect x="955.0" y="234" width="66" height="20" rx="10.0" fill="#dcfae6" />
+<text x="988.0" y="248.0" font-size="10.5" fill="#067647" font-weight="600" text-anchor="middle" >▲ 15.3%</text>
+<text x="1027.0" y="248" font-size="10.5" fill="#98a2b3" font-weight="400" text-anchor="start" >vs prev. 30d</text>
+<polyline points="1129.5,238.0 1138.1,234.0 1146.7,233.0 1155.3,230.0 1163.9,227.0 1172.5,225.0 1181.1,222.0 1189.7,219.0 1198.3,216.0 1206.9,213.0 1215.5,209.0 1224.1,205.0" fill="none" stroke="#0d9488" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1261.5" y="152" width="306.5" height="110" rx="14" fill="#fff" stroke="#e4e7ec" stroke-width="1" filter="url(#s)"/>
+<text x="1281.5" y="182" font-size="12.5" fill="#667085" font-weight="500" text-anchor="start" >Avg. response</text>
+<text x="1281.5" y="224" font-size="30" fill="#101828" font-weight="700" text-anchor="start" >184 ms</text>
+<rect x="1281.5" y="234" width="66" height="20" rx="10.0" fill="#dcfae6" />
+<text x="1314.5" y="248.0" font-size="10.5" fill="#067647" font-weight="600" text-anchor="middle" >▼ 9%</text>
+<text x="1353.5" y="248" font-size="10.5" fill="#98a2b3" font-weight="400" text-anchor="start" >vs prev. 30d</text>
+<polyline points="1456.0,213.0 1464.6,215.0 1473.2,214.0 1481.8,218.0 1490.4,219.0 1499.0,221.0 1507.6,223.0 1516.2,222.0 1524.8,225.0 1533.4,226.0 1542.0,227.0 1550.6,229.0" fill="none" stroke="#0d9488" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="282" y="282" width="830" height="318" rx="14" fill="#fff" stroke="#e4e7ec" stroke-width="1" filter="url(#s)"/>
+<text x="306" y="316" font-size="15.5" fill="#101828" font-weight="700" text-anchor="start" >API usage this billing period</text>
+<text x="306" y="336" font-size="12" fill="#667085" font-weight="400" text-anchor="start" >Cumulative calls vs. plan limit · resets Dec 1</text>
+<text x="1088" y="316" font-size="1" fill="#101828" font-weight="400" text-anchor="start" ></text>
+<line x1="808" y1="312" x2="828" y2="312" stroke="#0d9488" stroke-width="3" stroke-linecap="round"/>
+<text x="836" y="316" font-size="11.5" fill="#344054" font-weight="500" text-anchor="start" >Actual</text>
+<line x1="894" y1="312" x2="914" y2="312" stroke="#0d9488" stroke-width="3" stroke-dasharray="2 5" stroke-linecap="round"/>
+<text x="922" y="316" font-size="11.5" fill="#344054" font-weight="500" text-anchor="start" >Forecast</text>
+<line x1="994" y1="312" x2="1014" y2="312" stroke="#f04438" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="1022" y="316" font-size="11.5" fill="#344054" font-weight="500" text-anchor="start" >Limit</text>
+<line x1="346" y1="544.0" x2="1084" y2="544.0" stroke="#eaecf0"/>
+<text x="334" y="548.0" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="end" >0</text>
+<line x1="346" y1="486.0" x2="1084" y2="486.0" stroke="#eaecf0"/>
+<text x="334" y="490.0" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="end" >1M</text>
+<line x1="346" y1="428.0" x2="1084" y2="428.0" stroke="#eaecf0"/>
+<text x="334" y="432.0" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="end" >2M</text>
+<line x1="346" y1="370.0" x2="1084" y2="370.0" stroke="#eaecf0"/>
+<text x="334" y="374.0" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="end" >3M</text>
+<path d="M346.0,544.0 L371.4,538.8 L396.9,533.5 L422.3,527.8 L447.8,522.6 L473.2,517.4 L498.7,514.5 L524.1,512.1 L549.6,506.9 L575.0,501.5 L600.5,495.9 L625.9,491.2 L651.4,486.2 L676.8,483.9 L702.3,480.8 L727.7,475.3 L753.2,470.6 L778.6,464.8 L804.1,459.0 L829.5,453.6 L855.0,450.7 L880.4,448.3 L905.9,443.7 L931.3,438.4 L931.3,544 L346,544 Z" fill="url(#ag)"/><path d="M346.0,544.0 L371.4,538.8 L396.9,533.5 L422.3,527.8 L447.8,522.6 L473.2,517.4 L498.7,514.5 L524.1,512.1 L549.6,506.9 L575.0,501.5 L600.5,495.9 L625.9,491.2 L651.4,486.2 L676.8,483.9 L702.3,480.8 L727.7,475.3 L753.2,470.6 L778.6,464.8 L804.1,459.0 L829.5,453.6 L855.0,450.7 L880.4,448.3 L905.9,443.7 L931.3,438.4" fill="none" stroke="#0d9488" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M931.3,438.4 L1084.0,410.0" fill="none" stroke="#0d9488" stroke-width="3" stroke-dasharray="2 6" stroke-linecap="round"/>
+<line x1="346" y1="399.0" x2="1084" y2="399.0" stroke="#f04438" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="354" y="391.0" font-size="10.5" fill="#f04438" font-weight="650" text-anchor="start" >Plan limit · 2.5M</text>
+<circle cx="931.3" cy="438.4" r="6" fill="#fff" stroke="#0d9488" stroke-width="3"/>
+<rect x="947.3103448275862" y="452.44" width="134" height="44" rx="9" fill="#101828" />
+<text x="959.3103448275862" y="471.44" font-size="10.5" fill="#94a3b8" font-weight="500" text-anchor="start" >Nov 24</text>
+<text x="959.3103448275862" y="487.44" font-size="11.5" fill="#fff" font-weight="650" text-anchor="start" >1.82M calls · 73%</text>
+<text x="1084.0" y="440.0" font-size="10.5" fill="#0d9488" font-weight="650" text-anchor="end">Projected 2.31M</text>
+<text x="346.0" y="568" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="middle" >Nov 1</text>
+<text x="473.2413793103448" y="568" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="middle" >Nov 6</text>
+<text x="600.4827586206897" y="568" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="middle" >Nov 11</text>
+<text x="727.7241379310344" y="568" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="middle" >Nov 16</text>
+<text x="854.9655172413793" y="568" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="middle" >Nov 21</text>
+<text x="982.2068965517242" y="568" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="middle" >Nov 26</text>
+<text x="1084.0" y="568" font-size="11" fill="#98a2b3" font-weight="400" text-anchor="middle" >Nov 30</text>
+<rect x="1132" y="282" width="436" height="318" rx="14" fill="#fff" stroke="#e4e7ec" stroke-width="1" filter="url(#s)"/>
+<text x="1156" y="316" font-size="15.5" fill="#101828" font-weight="700" text-anchor="start" >Usage &amp; billing</text>
+<rect x="1440" y="299" width="104" height="24" rx="12.0" fill="#ccfbf1" />
+<text x="1492.0" y="315.0" font-size="11" fill="#0d9488" font-weight="600" text-anchor="middle" >Business plan</text>
+<text x="1156" y="336" font-size="12" fill="#667085" font-weight="400" text-anchor="start" >Nov 1 – Nov 30 · metered monthly</text>
+<text x="1156" y="372" font-size="12.5" fill="#344054" font-weight="600" text-anchor="start" >API calls</text>
+<text x="1544" y="372" font-size="12" fill="#667085" font-weight="500" text-anchor="end" >1.82M / 2.5M</text>
+<rect x="1156" y="382" width="388" height="8" rx="4" fill="#eaecf0" />
+<rect x="1156" y="382" width="283.24" height="8" rx="4" fill="#0d9488" />
+<text x="1156" y="416" font-size="12.5" fill="#344054" font-weight="600" text-anchor="start" >Seats</text>
+<text x="1544" y="416" font-size="12" fill="#667085" font-weight="500" text-anchor="end" >42 / 50</text>
+<rect x="1156" y="426" width="388" height="8" rx="4" fill="#eaecf0" />
+<rect x="1156" y="426" width="325.92" height="8" rx="4" fill="#f79009" />
+<text x="1156" y="460" font-size="12.5" fill="#344054" font-weight="600" text-anchor="start" >Workflow runs</text>
+<text x="1544" y="460" font-size="12" fill="#667085" font-weight="500" text-anchor="end" >128k / 250k</text>
+<rect x="1156" y="470" width="388" height="8" rx="4" fill="#eaecf0" />
+<rect x="1156" y="470" width="197.88" height="8" rx="4" fill="#0d9488" />
+<text x="1156" y="504" font-size="12.5" fill="#344054" font-weight="600" text-anchor="start" >Storage</text>
+<text x="1544" y="504" font-size="12" fill="#667085" font-weight="500" text-anchor="end" >412 GB / 1 TB</text>
+<rect x="1156" y="514" width="388" height="8" rx="4" fill="#eaecf0" />
+<rect x="1156" y="514" width="155.20000000000002" height="8" rx="4" fill="#0d9488" />
+<line x1="1156" y1="540" x2="1544" y2="540" stroke="#f2f4f7"/>
+<text x="1156" y="564" font-size="11.5" fill="#667085" font-weight="500" text-anchor="start" >Next invoice</text>
+<text x="1156" y="584" font-size="17" fill="#101828" font-weight="700" text-anchor="start" >$612.40</text>
+<text x="1236" y="584" font-size="12" fill="#667085" font-weight="500" text-anchor="start" >· Dec 1</text>
+<rect x="1420" y="552" width="124" height="34" rx="10" fill="#fff" stroke="#d0d5dd" stroke-width="1" />
+<rect x="1430" y="562" width="26" height="16" rx="3" fill="#1a1f71" />
+<text x="1443" y="574" font-size="6.5" fill="#fff" font-weight="800" text-anchor="middle" >VISA</text>
+<text x="1464" y="574" font-size="11.5" fill="#344054" font-weight="600" text-anchor="start" >•••• 4242</text>
+<rect x="282" y="620" width="830" height="360" rx="14" fill="#fff" stroke="#e4e7ec" stroke-width="1" filter="url(#s)"/>
+<text x="306" y="654" font-size="15.5" fill="#101828" font-weight="700" text-anchor="start" >Members &amp; access</text>
+<rect x="482" y="637" width="90" height="24" rx="12.0" fill="#f2f4f7" />
+<text x="527.0" y="653.0" font-size="11" fill="#667085" font-weight="600" text-anchor="middle" >42 members</text>
+<rect x="992" y="636" width="96" height="28" rx="9" fill="#101828" />
+<text x="1040" y="655" font-size="12" fill="#fff" font-weight="600" text-anchor="middle" >+ Invite</text>
+<rect x="282" y="678" width="830" height="30" rx="0" fill="#f9fafb" />
+<line x1="282" y1="678" x2="1112" y2="678" stroke="#eaecf0"/><line x1="282" y1="708" x2="1112" y2="708" stroke="#eaecf0"/>
+<text x="306" y="698" font-size="10.5" fill="#667085" font-weight="650" text-anchor="start" letter-spacing=".8">MEMBER</text>
+<text x="572" y="698" font-size="10.5" fill="#667085" font-weight="650" text-anchor="start" letter-spacing=".8">ROLE</text>
+<text x="692" y="698" font-size="10.5" fill="#667085" font-weight="650" text-anchor="start" letter-spacing=".8">SIGN-IN</text>
+<text x="872" y="698" font-size="10.5" fill="#667085" font-weight="650" text-anchor="start" letter-spacing=".8">LAST ACTIVE</text>
+<text x="992" y="698" font-size="10.5" fill="#667085" font-weight="650" text-anchor="start" letter-spacing=".8">STATUS</text>
+<circle cx="321" cy="731" r="15" fill="#8b5cf6"/>
+<text x="321" y="736.25" font-size="12.0" fill="#fff" font-weight="650" text-anchor="middle" >PN</text>
+<text x="348" y="729" font-size="13" fill="#101828" font-weight="650" text-anchor="start" >Priya Nair</text>
+<text x="348" y="744" font-size="11" fill="#667085" font-weight="400" text-anchor="start" >priya@halden.io</text>
+<rect x="572" y="720" width="55.0" height="22" rx="11.0" fill="#f2f4f7" />
+<text x="599.5" y="735.0" font-size="11" fill="#344054" font-weight="600" text-anchor="middle" >Admin</text>
+<text x="692" y="736" font-size="12.5" fill="#344054" font-weight="550" text-anchor="start" >Okta SSO</text>
+<path d="M676 729 l5 -2.5 l5 2.5 v4 c0 3 -2 5 -5 6 c-3 -1 -5 -3 -5 -6z" fill="#ccfbf1" stroke="#0d9488" stroke-width="1.3"/>
+<text x="872" y="736" font-size="12.5" fill="#667085" font-weight="500" text-anchor="start" >2 min ago</text>
+<circle cx="997" cy="732" r="4" fill="#12b76a"/>
+<text x="1008" y="736" font-size="12.5" fill="#067647" font-weight="600" text-anchor="start" >Active</text>
+<line x1="282" y1="754" x2="1112" y2="754" stroke="#f2f4f7"/>
+<circle cx="321" cy="777" r="15" fill="#0ea5a4"/>
+<text x="321" y="782.25" font-size="12.0" fill="#fff" font-weight="650" text-anchor="middle" >DO</text>
+<text x="348" y="775" font-size="13" fill="#101828" font-weight="650" text-anchor="start" >Daniel Ortiz</text>
+<text x="348" y="790" font-size="11" fill="#667085" font-weight="400" text-anchor="start" >daniel@halden.io</text>
+<rect x="572" y="766" width="68.19999999999999" height="22" rx="11.0" fill="#f2f4f7" />
+<text x="606.1" y="781.0" font-size="11" fill="#344054" font-weight="600" text-anchor="middle" >Manager</text>
+<text x="692" y="782" font-size="12.5" fill="#344054" font-weight="550" text-anchor="start" >Okta SSO</text>
+<path d="M676 775 l5 -2.5 l5 2.5 v4 c0 3 -2 5 -5 6 c-3 -1 -5 -3 -5 -6z" fill="#ccfbf1" stroke="#0d9488" stroke-width="1.3"/>
+<text x="872" y="782" font-size="12.5" fill="#667085" font-weight="500" text-anchor="start" >14 min ago</text>
+<circle cx="997" cy="778" r="4" fill="#12b76a"/>
+<text x="1008" y="782" font-size="12.5" fill="#067647" font-weight="600" text-anchor="start" >Active</text>
+<line x1="282" y1="800" x2="1112" y2="800" stroke="#f2f4f7"/>
+<circle cx="321" cy="823" r="15" fill="#7c3aed"/>
+<text x="321" y="828.25" font-size="12.0" fill="#fff" font-weight="650" text-anchor="middle" >SK</text>
+<text x="348" y="821" font-size="13" fill="#101828" font-weight="650" text-anchor="start" >Sarah Kim</text>
+<text x="348" y="836" font-size="11" fill="#667085" font-weight="400" text-anchor="start" >sarah@halden.io</text>
+<rect x="572" y="812" width="55.0" height="22" rx="11.0" fill="#f2f4f7" />
+<text x="599.5" y="827.0" font-size="11" fill="#344054" font-weight="600" text-anchor="middle" >Owner</text>
+<text x="692" y="828" font-size="12.5" fill="#344054" font-weight="550" text-anchor="start" >Okta SSO</text>
+<path d="M676 821 l5 -2.5 l5 2.5 v4 c0 3 -2 5 -5 6 c-3 -1 -5 -3 -5 -6z" fill="#ccfbf1" stroke="#0d9488" stroke-width="1.3"/>
+<text x="872" y="828" font-size="12.5" fill="#667085" font-weight="500" text-anchor="start" >Just now</text>
+<circle cx="997" cy="824" r="4" fill="#12b76a"/>
+<text x="1008" y="828" font-size="12.5" fill="#067647" font-weight="600" text-anchor="start" >Active</text>
+<line x1="282" y1="846" x2="1112" y2="846" stroke="#f2f4f7"/>
+<circle cx="321" cy="869" r="15" fill="#ec4899"/>
+<text x="321" y="874.25" font-size="12.0" fill="#fff" font-weight="650" text-anchor="middle" >MW</text>
+<text x="348" y="867" font-size="13" fill="#101828" font-weight="650" text-anchor="start" >Marcus Webb</text>
+<text x="348" y="882" font-size="11" fill="#667085" font-weight="400" text-anchor="start" >marcus@halden.io</text>
+<rect x="572" y="858" width="68.19999999999999" height="22" rx="11.0" fill="#f2f4f7" />
+<text x="606.1" y="873.0" font-size="11" fill="#344054" font-weight="600" text-anchor="middle" >Analyst</text>
+<text x="692" y="874" font-size="12.5" fill="#344054" font-weight="550" text-anchor="start" >Google SSO</text>
+<path d="M676 867 l5 -2.5 l5 2.5 v4 c0 3 -2 5 -5 6 c-3 -1 -5 -3 -5 -6z" fill="#ccfbf1" stroke="#0d9488" stroke-width="1.3"/>
+<text x="872" y="874" font-size="12.5" fill="#667085" font-weight="500" text-anchor="start" >3 hrs ago</text>
+<circle cx="997" cy="870" r="4" fill="#12b76a"/>
+<text x="1008" y="874" font-size="12.5" fill="#067647" font-weight="600" text-anchor="start" >Active</text>
+<line x1="282" y1="892" x2="1112" y2="892" stroke="#f2f4f7"/>
+<circle cx="321" cy="915" r="15" fill="#f59e0b"/>
+<text x="321" y="920.25" font-size="12.0" fill="#fff" font-weight="650" text-anchor="middle" >AR</text>
+<text x="348" y="913" font-size="13" fill="#101828" font-weight="650" text-anchor="start" >Aisha Rahman</text>
+<text x="348" y="928" font-size="11" fill="#667085" font-weight="400" text-anchor="start" >aisha@halden.io</text>
+<rect x="572" y="904" width="61.599999999999994" height="22" rx="11.0" fill="#f2f4f7" />
+<text x="602.8" y="919.0" font-size="11" fill="#344054" font-weight="600" text-anchor="middle" >Viewer</text>
+<text x="692" y="920" font-size="12.5" fill="#344054" font-weight="550" text-anchor="start" >Email link</text>
+<text x="872" y="920" font-size="12.5" fill="#667085" font-weight="500" text-anchor="start" >—</text>
+<rect x="992" y="904" width="66" height="22" rx="11.0" fill="#fef0c7" />
+<text x="1025.0" y="919.0" font-size="11" fill="#b54708" font-weight="600" text-anchor="middle" >Invited</text>
+<line x1="282" y1="946" x2="1112" y2="946" stroke="#f2f4f7"/>
+<text x="306" y="968" font-size="12" fill="#667085" font-weight="500" text-anchor="start" >Showing 5 of 42 members</text>
+<text x="1088" y="968" font-size="12.5" fill="#0d9488" font-weight="650" text-anchor="end" >View all →</text>
+<rect x="1132" y="620" width="436" height="360" rx="14" fill="#fff" stroke="#e4e7ec" stroke-width="1" filter="url(#s)"/>
+<text x="1156" y="654" font-size="15.5" fill="#101828" font-weight="700" text-anchor="start" >Security &amp; SSO</text>
+<text x="1156" y="692" font-size="13" fill="#101828" font-weight="650" text-anchor="start" >SAML single sign-on</text>
+<text x="1156" y="709" font-size="11.5" fill="#667085" font-weight="400" text-anchor="start" >Enforced via Okta · 3 domains</text>
+<rect x="1506" y="684" width="38" height="22" rx="11" fill="#0d9488" />
+<circle cx="1533" cy="695" r="8.5" fill="#fff"/>
+<line x1="1156" y1="720" x2="1544" y2="720" stroke="#f2f4f7"/>
+<text x="1156" y="744" font-size="13" fill="#101828" font-weight="650" text-anchor="start" >SCIM provisioning</text>
+<text x="1156" y="761" font-size="11.5" fill="#667085" font-weight="400" text-anchor="start" >Last synced 4 min ago</text>
+<rect x="1506" y="736" width="38" height="22" rx="11" fill="#0d9488" />
+<circle cx="1533" cy="747" r="8.5" fill="#fff"/>
+<line x1="1156" y1="772" x2="1544" y2="772" stroke="#f2f4f7"/>
+<text x="1156" y="796" font-size="13" fill="#101828" font-weight="650" text-anchor="start" >Require MFA</text>
+<text x="1156" y="813" font-size="11.5" fill="#667085" font-weight="400" text-anchor="start" >All members · authenticator app</text>
+<rect x="1506" y="788" width="38" height="22" rx="11" fill="#0d9488" />
+<circle cx="1533" cy="799" r="8.5" fill="#fff"/>
+<line x1="1156" y1="824" x2="1544" y2="824" stroke="#f2f4f7"/>
+<text x="1156" y="848" font-size="13" fill="#101828" font-weight="650" text-anchor="start" >IP allow-list</text>
+<text x="1156" y="865" font-size="11.5" fill="#667085" font-weight="400" text-anchor="start" >Not configured</text>
+<rect x="1506" y="840" width="38" height="22" rx="11" fill="#d0d5dd" />
+<circle cx="1517" cy="851" r="8.5" fill="#fff"/>
+<rect x="1156" y="896" width="388" height="64" rx="12" fill="#f0fdfa" stroke="#99f6e4" stroke-width="1" />
+<text x="1172" y="918" font-size="9.5" fill="#0d9488" font-weight="700" text-anchor="start" letter-spacing="1">DATA ISOLATION</text>
+<rect x="1442" y="903" width="86" height="20" rx="10.0" fill="#ccfbf1" />
+<text x="1485.0" y="917.0" font-size="10" fill="#0f766e" font-weight="600" text-anchor="middle" >Dedicated</text>
+<text x="1172" y="938" font-size="12" fill="#101828" font-weight="600" text-anchor="start" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">schema: tenant_halden_4f2a</text>
+<text x="1172" y="953" font-size="10" fill="#667085" font-weight="400" text-anchor="start" >ap-south-1 · encrypted at rest · Redis namespace tenant:halden</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3NzIzYjhhZi0xNmJiLTQyZGYtOWE5My0yZmIwYmM3NWNjZDUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaCVLby4FerLHaVZ13ZoxpG0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplNjc3ODhmNy00N2RmLTQ1NTUtOGRjYi03NTlmZjQ3NDNjOTVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNocUCSuzcd7I/Y6MQINzEYbAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggUUxbjoJOodT0nfs3GbHqPRCwrHT16gWiWNq+g/5Z1YOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaAJWgJlOc0I7qX9Ptmuam8IAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIPQQflAHc4HAgFOlrFvJPAeXiSlXNKsUd0CF61vtMAdnZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GXWtZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjc3MjNiOGFmLTE2YmItNDJkZi05YTkzLTJmYjBiYzc1Y2NkNS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmRiZWM3MTM4LWVkZjMtNDdmNi1iNmI2LWUyNWY0NGRkYTE1ZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBRTFuOgk6h1PSd+zcZseo9ELCsdPXqBaJY2r6D/lnVg6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggYm5ODM61Jx/hRmejKZ2HJzFtZT1KBVOJ1qrr1GdqBwaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggn8QrUVjkHCIGlkFveRg9W+SwnNhFBqH88ddy/r3ZZs50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQM1Nk28BS7bX00BXf67SyOdTWsLGgPc8XzWR3QX7Gem2SQN7zREolJwCnZ9NRRKDChWZbMVGnyMPJzS5g3cJ32I=</c2pa:manifest></metadata></svg>

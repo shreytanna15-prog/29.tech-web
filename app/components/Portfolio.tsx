@@ -48,6 +48,7 @@ const projects: Project[] = [
     id: 'work-ai-agents',
     category: 'AI Agents & Automation',
     name: 'Autonomous Multi-Agent Workflow Engine',
+    image: '/work/AI-agent-work.svg',
     problem:
       'Operations teams spent hours manually categorizing complex business records, extracting unstructured data, and resolving repetitive support escalations.',
     delivered:
@@ -59,6 +60,7 @@ const projects: Project[] = [
     id: 'work-saas-platforms',
     category: 'SaaS Platforms',
     name: 'Multi-Tenant B2B Analytics & Workflow SaaS',
+    image: '/work/saas-platform-flows.svg',
     problem:
       'Client required a scalable multi-tenant foundation engineered for enterprise readiness, automated billing, organization workspaces, and self-serve onboarding.',
     delivered:
@@ -72,6 +74,7 @@ const projects: Project[] = [
     name: 'Event-Driven Systems Integration & Data Pipeline',
     problem:
       'Critical business events across billing, CRM, and inventory systems suffered from inconsistent syncing, silent drops, and manual reconciliation overhead.',
+    image: '/work/event-pipeline.svg',
     delivered:
       'Resilient event-driven architecture with guaranteed message delivery, dead-letter recovery queues, real-time telemetry, and automated operational alerts.',
     stack: ['Node.js', 'Apache Kafka', 'Docker', 'Google Cloud', 'Terraform'],
@@ -99,7 +102,7 @@ const clients: Client[] = [
   {
     name: 'Erudite AI',
     tag: 'AI SaaS',
-    logoSrc: '/logos/erudite-ai-logo.svg',
+    logoSrc: '/logos/Erudite.png',
   },
   {
     name: 'Joss Technologies',
@@ -437,10 +440,18 @@ export default function Portfolio() {
           text-transform: uppercase;
         }
 
+        .case-visual {
+          border: none;
+          background: transparent !important;
+          box-shadow: none !important;
+          min-height: auto;
+          overflow: visible;
+        }
+
         .case-img {
           width: 100%;
-          height: 100%;
-          object-fit: cover;
+          height: auto;
+          object-fit: contain;
           display: block;
           aspect-ratio: 16 / 10;
         }

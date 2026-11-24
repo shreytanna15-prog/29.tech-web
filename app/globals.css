@@ -1368,15 +1368,15 @@ select.field-input {
 }
 
 .case-visual {
-  --case-bg: var(--bg-2);
+  --case-bg: transparent;
   --case-panel: var(--bg-1);
   --case-line: var(--border-1);
   color: var(--text-1);
-  border: 1px solid var(--border-1);
+  border: none;
   border-radius: var(--r-md);
-  overflow: hidden;
-  min-height: 280px;
-  background: var(--case-bg);
+  overflow: visible;
+  min-height: auto;
+  background: transparent;
 }
 
 .case-svg {
