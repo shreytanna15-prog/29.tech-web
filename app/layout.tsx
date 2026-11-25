@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import Script from "next/script";
 import { IBM_Plex_Sans, IBM_Plex_Mono } from "next/font/google";
 import PageLoader from "./components/PageLoader";
 import SmoothScroll from "./components/SmoothScroll";
@@ -80,6 +81,17 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <PageLoader />
         <SmoothScroll />
         {children}
+        <Script
+          src="https://www.googletagmanager.com/gtm.js?id=GTM-NGM3JZML"
+          strategy="afterInteractive"
+        />
+        <Script id="gtm-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+          `}
+        </Script>
       </body>
     </html>
   );

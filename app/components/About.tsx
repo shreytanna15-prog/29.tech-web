@@ -49,12 +49,6 @@ export default function About() {
                 Discuss Your Project
               </Link>
             </div>
-            <p
-              className="mono-meta"
-              style={{ marginTop: '1rem' }}
-            >
-              Team / founder photography — pending. Do not invent portraits.
-            </p>
           </div>
         </div>
       </div>
